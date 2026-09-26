@@ -1,0 +1,1731 @@
+date,store_nbr,item_nbr,type,cluster,state,family,class,perishable,store_type,family_encoded,state_encoded,unit_sales
+1/12/2013,5,103665,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,7
+1/12/2013,5,105574,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,14
+1/12/2013,5,105575,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,28
+1/12/2013,5,105577,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,8
+1/12/2013,5,105693,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,3
+1/12/2013,5,105857,D,4,Santo Domingo de los Tsachilas,GROCERY I,1092,0,3,1,2,2
+1/12/2013,5,108079,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,1
+1/12/2013,5,108696,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,1
+1/12/2013,5,108701,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,6
+1/12/2013,5,108786,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,108797,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,3
+1/12/2013,5,108831,D,4,Santo Domingo de los Tsachilas,POULTRY,2416,1,3,8,2,12.735
+1/12/2013,5,108862,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,1
+1/12/2013,5,108952,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,4
+1/12/2013,5,111223,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,3
+1/12/2013,5,114790,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,21
+1/12/2013,5,114800,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,6
+1/12/2013,5,115267,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,4
+1/12/2013,5,115611,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,26
+1/12/2013,5,115720,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,9
+1/12/2013,5,115847,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,1
+1/12/2013,5,115850,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,4
+1/12/2013,5,115891,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,4
+1/12/2013,5,115892,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,5
+1/12/2013,5,115894,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,12
+1/12/2013,5,116017,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,9
+1/12/2013,5,116279,D,4,Santo Domingo de los Tsachilas,GROCERY I,1056,0,3,1,2,3
+1/12/2013,5,119026,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,9
+1/12/2013,5,119141,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,11
+1/12/2013,5,119191,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,119624,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,9
+1/12/2013,5,121964,D,4,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,3,17,2,1
+1/12/2013,5,122418,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,12
+1/12/2013,5,122419,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,3
+1/12/2013,5,122425,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,8
+1/12/2013,5,123347,D,4,Santo Domingo de los Tsachilas,DAIRY,2114,1,3,6,2,6
+1/12/2013,5,123601,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,16
+1/12/2013,5,125430,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,3
+1/12/2013,5,127547,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,5
+1/12/2013,5,129296,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,11
+1/12/2013,5,129297,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,5
+1/12/2013,5,129635,D,4,Santo Domingo de los Tsachilas,DAIRY,2112,1,3,6,2,9
+1/12/2013,5,129758,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,8
+1/12/2013,5,153078,D,4,Santo Domingo de los Tsachilas,CLEANING,3008,0,3,3,2,1
+1/12/2013,5,153267,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,8
+1/12/2013,5,153395,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2704,1,3,0,2,20
+1/12/2013,5,153398,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,2
+1/12/2013,5,155600,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,2
+1/12/2013,5,155601,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,7
+1/12/2013,5,155607,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,155610,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,9
+1/12/2013,5,155621,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,1
+1/12/2013,5,155625,D,4,Santo Domingo de los Tsachilas,GROCERY I,1092,0,3,1,2,3
+1/12/2013,5,157956,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,1
+1/12/2013,5,158842,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,3
+1/12/2013,5,158875,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,1
+1/12/2013,5,158956,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,7
+1/12/2013,5,159156,D,4,Santo Domingo de los Tsachilas,POULTRY,2416,1,3,8,2,48.53
+1/12/2013,5,161288,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,2
+1/12/2013,5,162066,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,5
+1/12/2013,5,164036,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,2
+1/12/2013,5,164037,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,1
+1/12/2013,5,164088,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,3
+1/12/2013,5,164647,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,13
+1/12/2013,5,165550,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,7
+1/12/2013,5,165594,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,47
+1/12/2013,5,165704,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,4
+1/12/2013,5,165705,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,1
+1/12/2013,5,165718,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,2
+1/12/2013,5,165727,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,3
+1/12/2013,5,165988,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,11
+1/12/2013,5,167437,D,4,Santo Domingo de los Tsachilas,GROCERY II,1236,0,3,11,2,2
+1/12/2013,5,168927,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,18
+1/12/2013,5,168930,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,12
+1/12/2013,5,168989,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,4
+1/12/2013,5,169101,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,169104,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,170791,D,4,Santo Domingo de los Tsachilas,GROCERY I,1080,0,3,1,2,4
+1/12/2013,5,171890,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,2
+1/12/2013,5,172343,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,10
+1/12/2013,5,173111,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,6
+1/12/2013,5,173113,D,4,Santo Domingo de los Tsachilas,DAIRY,2114,1,3,6,2,1
+1/12/2013,5,174081,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,3,5,2,2
+1/12/2013,5,177050,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,2
+1/12/2013,5,177395,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,1
+1/12/2013,5,179274,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,3
+1/12/2013,5,179564,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,5
+1/12/2013,5,179615,D,4,Santo Domingo de los Tsachilas,DAIRY,2112,1,3,6,2,7
+1/12/2013,5,205387,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,10
+1/12/2013,5,205486,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,9
+1/12/2013,5,207857,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,3
+1/12/2013,5,208384,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,22
+1/12/2013,5,208386,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,6
+1/12/2013,5,208514,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,19
+1/12/2013,5,208539,D,4,Santo Domingo de los Tsachilas,POULTRY,2412,1,3,8,2,1.292
+1/12/2013,5,208659,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,6
+1/12/2013,5,209085,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,3
+1/12/2013,5,210798,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,2
+1/12/2013,5,211203,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,3
+1/12/2013,5,211205,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,2
+1/12/2013,5,212550,D,4,Santo Domingo de los Tsachilas,GROCERY I,1036,0,3,1,2,1
+1/12/2013,5,212552,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,3
+1/12/2013,5,213066,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,2
+1/12/2013,5,213652,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,4
+1/12/2013,5,213788,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,4
+1/12/2013,5,214381,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,4
+1/12/2013,5,214859,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,8
+1/12/2013,5,214860,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,7
+1/12/2013,5,214862,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,3
+1/12/2013,5,215304,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,6
+1/12/2013,5,215327,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,1
+1/12/2013,5,215331,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,8
+1/12/2013,5,215332,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,4
+1/12/2013,5,215352,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,14
+1/12/2013,5,215356,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,2
+1/12/2013,5,215370,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,6
+1/12/2013,5,215468,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,11
+1/12/2013,5,215896,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,4
+1/12/2013,5,218726,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,219147,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,219150,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,34
+1/12/2013,5,219152,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,220435,D,4,Santo Domingo de los Tsachilas,GROCERY I,1080,0,3,1,2,32
+1/12/2013,5,220613,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,3
+1/12/2013,5,222879,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,33
+1/12/2013,5,222975,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,3
+1/12/2013,5,223136,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,30
+1/12/2013,5,223434,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,14
+1/12/2013,5,223463,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,3
+1/12/2013,5,226126,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,3
+1/12/2013,5,226857,D,4,Santo Domingo de los Tsachilas,GROCERY I,1035,0,3,1,2,3
+1/12/2013,5,227111,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,6
+1/12/2013,5,227728,D,4,Santo Domingo de los Tsachilas,DAIRY,2104,1,3,6,2,8
+1/12/2013,5,229368,D,4,Santo Domingo de los Tsachilas,GROCERY I,1086,0,3,1,2,2
+1/12/2013,5,246052,D,4,Santo Domingo de los Tsachilas,GROCERY I,1039,0,3,1,2,4
+1/12/2013,5,252970,D,4,Santo Domingo de los Tsachilas,CLEANING,3008,0,3,3,2,4
+1/12/2013,5,252972,D,4,Santo Domingo de los Tsachilas,CLEANING,3008,0,3,3,2,2
+1/12/2013,5,255161,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,11
+1/12/2013,5,255202,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,6
+1/12/2013,5,257847,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,8
+1/12/2013,5,258268,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,10
+1/12/2013,5,258376,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,258395,D,4,Santo Domingo de los Tsachilas,GROCERY I,1002,0,3,1,2,1
+1/12/2013,5,258396,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,16
+1/12/2013,5,258411,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2218,0,3,12,2,7
+1/12/2013,5,258537,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,8
+1/12/2013,5,260669,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,260893,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,2
+1/12/2013,5,261052,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,34
+1/12/2013,5,261700,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,11
+1/12/2013,5,262358,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,5
+1/12/2013,5,262991,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,263583,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,2
+1/12/2013,5,264299,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,6
+1/12/2013,5,264452,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,1
+1/12/2013,5,264751,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,3
+1/12/2013,5,264753,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,3
+1/12/2013,5,265086,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,1
+1/12/2013,5,265237,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,4
+1/12/2013,5,265254,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,13
+1/12/2013,5,265257,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,6
+1/12/2013,5,265258,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,2
+1/12/2013,5,265279,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,2
+1/12/2013,5,265382,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,1
+1/12/2013,5,265559,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,37
+1/12/2013,5,265672,D,4,Santo Domingo de los Tsachilas,GROCERY I,1056,0,3,1,2,3
+1/12/2013,5,265700,D,4,Santo Domingo de los Tsachilas,CLEANING,3090,0,3,3,2,2
+1/12/2013,5,268440,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,3
+1/12/2013,5,268662,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,1
+1/12/2013,5,268664,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,17
+1/12/2013,5,268676,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,1
+1/12/2013,5,268834,D,4,Santo Domingo de los Tsachilas,GROCERY I,1056,0,3,1,2,6
+1/12/2013,5,269036,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,12
+1/12/2013,5,269084,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2720,1,3,0,2,4
+1/12/2013,5,269286,D,4,Santo Domingo de los Tsachilas,CLEANING,3014,0,3,3,2,2
+1/12/2013,5,271478,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,3
+1/12/2013,5,271479,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,1
+1/12/2013,5,273528,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,23
+1/12/2013,5,275823,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,2
+1/12/2013,5,275826,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,6
+1/12/2013,5,279137,D,4,Santo Domingo de los Tsachilas,GROCERY I,1086,0,3,1,2,2
+1/12/2013,5,302952,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,7
+1/12/2013,5,302997,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,3
+1/12/2013,5,302998,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,2
+1/12/2013,5,305079,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,5
+1/12/2013,5,305080,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,36
+1/12/2013,5,305227,D,4,Santo Domingo de los Tsachilas,GROCERY I,1013,0,3,1,2,2
+1/12/2013,5,305229,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,12
+1/12/2013,5,305341,D,4,Santo Domingo de los Tsachilas,GROCERY I,1092,0,3,1,2,3
+1/12/2013,5,305344,D,4,Santo Domingo de los Tsachilas,GROCERY I,1092,0,3,1,2,11
+1/12/2013,5,305345,D,4,Santo Domingo de los Tsachilas,GROCERY I,1092,0,3,1,2,5
+1/12/2013,5,308726,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,12
+1/12/2013,5,308766,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,1
+1/12/2013,5,310644,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,8
+1/12/2013,5,310671,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,2
+1/12/2013,5,311954,D,4,Santo Domingo de los Tsachilas,CLEANING,3006,0,3,3,2,1
+1/12/2013,5,311994,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2752,1,3,0,2,49.537
+1/12/2013,5,312113,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2720,1,3,0,2,1
+1/12/2013,5,312317,D,4,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,3,17,2,3
+1/12/2013,5,312324,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,3
+1/12/2013,5,313641,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,4
+1/12/2013,5,314384,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,49
+1/12/2013,5,314393,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,5
+1/12/2013,5,314570,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,11
+1/12/2013,5,314880,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,7
+1/12/2013,5,314881,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,2
+1/12/2013,5,315176,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,19
+1/12/2013,5,315180,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,2
+1/12/2013,5,315220,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,10
+1/12/2013,5,315221,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,2
+1/12/2013,5,315277,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,9
+1/12/2013,5,315279,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,4
+1/12/2013,5,315320,D,4,Santo Domingo de los Tsachilas,GROCERY I,1066,0,3,1,2,5
+1/12/2013,5,315322,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,7
+1/12/2013,5,315460,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,21
+1/12/2013,5,315463,D,4,Santo Domingo de los Tsachilas,GROCERY II,1236,0,3,11,2,4
+1/12/2013,5,315474,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,1
+1/12/2013,5,315712,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,3
+1/12/2013,5,318787,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,5
+1/12/2013,5,318932,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,17
+1/12/2013,5,318935,D,4,Santo Domingo de los Tsachilas,DELI,2652,1,3,2,2,7
+1/12/2013,5,319093,D,4,Santo Domingo de los Tsachilas,DELI,2630,1,3,2,2,4
+1/12/2013,5,319094,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,6
+1/12/2013,5,319095,D,4,Santo Domingo de los Tsachilas,DELI,2640,1,3,2,2,3
+1/12/2013,5,320682,D,4,Santo Domingo de los Tsachilas,GROCERY I,1080,0,3,1,2,54
+1/12/2013,5,321798,D,4,Santo Domingo de los Tsachilas,CLEANING,3010,0,3,3,2,1
+1/12/2013,5,322094,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,5
+1/12/2013,5,323013,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,16
+1/12/2013,5,323921,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,20
+1/12/2013,5,329070,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,1
+1/12/2013,5,329071,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,11
+1/12/2013,5,329361,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,1
+1/12/2013,5,329362,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,14
+1/12/2013,5,329397,D,4,Santo Domingo de los Tsachilas,DAIRY,2112,1,3,6,2,4
+1/12/2013,5,346065,D,4,Santo Domingo de los Tsachilas,GROCERY I,1039,0,3,1,2,1
+1/12/2013,5,346066,D,4,Santo Domingo de los Tsachilas,GROCERY I,1039,0,3,1,2,3
+1/12/2013,5,346406,D,4,Santo Domingo de los Tsachilas,GROCERY I,1039,0,3,1,2,1
+1/12/2013,5,352513,D,4,Santo Domingo de los Tsachilas,CLEANING,3012,0,3,3,2,7
+1/12/2013,5,354922,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,355090,D,4,Santo Domingo de los Tsachilas,GROCERY I,1024,0,3,1,2,6
+1/12/2013,5,355091,D,4,Santo Domingo de los Tsachilas,GROCERY I,1038,0,3,1,2,9
+1/12/2013,5,357963,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,1
+1/12/2013,5,357996,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,3
+1/12/2013,5,358096,D,4,Santo Domingo de los Tsachilas,GROCERY I,1002,0,3,1,2,5
+1/12/2013,5,358100,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,1
+1/12/2013,5,358231,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,14
+1/12/2013,5,358232,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,6
+1/12/2013,5,358264,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,6
+1/12/2013,5,358272,D,4,Santo Domingo de los Tsachilas,DAIRY,2112,1,3,6,2,4
+1/12/2013,5,358515,D,4,Santo Domingo de los Tsachilas,GROCERY I,1024,0,3,1,2,2
+1/12/2013,5,358519,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,2
+1/12/2013,5,358561,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,1
+1/12/2013,5,358564,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,3
+1/12/2013,5,360313,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,5
+1/12/2013,5,360314,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,25
+1/12/2013,5,360703,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,21
+1/12/2013,5,361502,D,4,Santo Domingo de los Tsachilas,GROCERY I,1036,0,3,1,2,6
+1/12/2013,5,362035,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,1
+1/12/2013,5,362548,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,34
+1/12/2013,5,363049,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,1
+1/12/2013,5,363889,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,4
+1/12/2013,5,363895,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,8
+1/12/2013,5,364606,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,69
+1/12/2013,5,364738,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,6
+1/12/2013,5,364829,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,1
+1/12/2013,5,364832,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,3
+1/12/2013,5,364834,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,4
+1/12/2013,5,364865,D,4,Santo Domingo de los Tsachilas,GROCERY II,1236,0,3,11,2,11
+1/12/2013,5,365264,D,4,Santo Domingo de los Tsachilas,CLEANING,3090,0,3,3,2,3
+1/12/2013,5,368136,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,7
+1/12/2013,5,368140,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,8
+1/12/2013,5,368213,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,1
+1/12/2013,5,368260,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,34
+1/12/2013,5,368419,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,9
+1/12/2013,5,368424,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,2
+1/12/2013,5,368624,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,5
+1/12/2013,5,370042,D,4,Santo Domingo de los Tsachilas,GROCERY I,1080,0,3,1,2,6
+1/12/2013,5,371130,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,2
+1/12/2013,5,371218,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,1
+1/12/2013,5,371434,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,2
+1/12/2013,5,371437,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,5
+1/12/2013,5,371438,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,13
+1/12/2013,5,373152,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,5
+1/12/2013,5,374464,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,3
+1/12/2013,5,376194,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,2
+1/12/2013,5,376427,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,7
+1/12/2013,5,377978,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,3,14,2,12
+1/12/2013,5,378330,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,1
+1/12/2013,5,378332,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,10
+1/12/2013,5,378685,D,4,Santo Domingo de los Tsachilas,DAIRY,2102,1,3,6,2,10
+1/12/2013,5,401817,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,13
+1/12/2013,5,401911,D,4,Santo Domingo de los Tsachilas,CLEANING,3012,0,3,3,2,3
+1/12/2013,5,402136,D,4,Santo Domingo de los Tsachilas,CLEANING,3008,0,3,3,2,3
+1/12/2013,5,402175,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,1
+1/12/2013,5,402299,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,11
+1/12/2013,5,404336,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,3
+1/12/2013,5,406965,D,4,Santo Domingo de los Tsachilas,CLEANING,3015,0,3,3,2,4
+1/12/2013,5,407499,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,6
+1/12/2013,5,407769,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,7
+1/12/2013,5,409738,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,4
+1/12/2013,5,409739,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,3
+1/12/2013,5,409904,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,8
+1/12/2013,5,410257,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,9
+1/12/2013,5,410866,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2980,1,3,10,2,3
+1/12/2013,5,411555,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,2
+1/12/2013,5,413986,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,2
+1/12/2013,5,413987,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,4
+1/12/2013,5,414305,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,7
+1/12/2013,5,414353,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,35
+1/12/2013,5,414354,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,1
+1/12/2013,5,414421,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,1
+1/12/2013,5,414426,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,3
+1/12/2013,5,414454,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,9
+1/12/2013,5,414455,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,2
+1/12/2013,5,414478,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,3
+1/12/2013,5,414620,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,14
+1/12/2013,5,414621,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,8
+1/12/2013,5,414623,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,3
+1/12/2013,5,414750,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,17
+1/12/2013,5,414752,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,6
+1/12/2013,5,414888,D,4,Santo Domingo de los Tsachilas,CLEANING,3090,0,3,3,2,1
+1/12/2013,5,417765,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,9
+1/12/2013,5,417835,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,2
+1/12/2013,5,418024,D,4,Santo Domingo de los Tsachilas,DELI,2630,1,3,2,2,2
+1/12/2013,5,418025,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,13
+1/12/2013,5,418026,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,9
+1/12/2013,5,418235,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,418238,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,9
+1/12/2013,5,419729,D,4,Santo Domingo de los Tsachilas,DELI,2652,1,3,2,2,2
+1/12/2013,5,421066,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,10
+1/12/2013,5,422452,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,5
+1/12/2013,5,426155,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2962,1,3,10,2,7
+1/12/2013,5,428054,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,3
+1/12/2013,5,428488,D,4,Santo Domingo de los Tsachilas,CLEANING,3030,0,3,3,2,1
+1/12/2013,5,452022,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,2
+1/12/2013,5,452212,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,9
+1/12/2013,5,454326,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,9
+1/12/2013,5,454426,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,454596,D,4,Santo Domingo de los Tsachilas,GROCERY I,1092,0,3,1,2,7
+1/12/2013,5,456870,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,5
+1/12/2013,5,456875,D,4,Santo Domingo de los Tsachilas,CLEANING,3015,0,3,3,2,3
+1/12/2013,5,457424,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,13
+1/12/2013,5,457425,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,1
+1/12/2013,5,457556,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,12
+1/12/2013,5,457574,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2226,0,3,12,2,18.343
+1/12/2013,5,458029,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,1
+1/12/2013,5,459762,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,2
+1/12/2013,5,459801,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,459804,D,4,Santo Domingo de los Tsachilas,GROCERY I,1086,0,3,1,2,6
+1/12/2013,5,460804,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,7
+1/12/2013,5,461432,D,4,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,3,17,2,2
+1/12/2013,5,462673,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,3
+1/12/2013,5,463458,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,3
+1/12/2013,5,463598,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,5
+1/12/2013,5,463816,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,1
+1/12/2013,5,463903,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,5
+1/12/2013,5,464263,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,14
+1/12/2013,5,464302,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,4
+1/12/2013,5,464333,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,4
+1/12/2013,5,464334,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,8
+1/12/2013,5,464336,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,4
+1/12/2013,5,464339,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,1
+1/12/2013,5,464356,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,6
+1/12/2013,5,464374,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,8
+1/12/2013,5,464536,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,8
+1/12/2013,5,464906,D,4,Santo Domingo de los Tsachilas,GROCERY I,1012,0,3,1,2,3
+1/12/2013,5,464940,D,4,Santo Domingo de los Tsachilas,CLEANING,3090,0,3,3,2,2
+1/12/2013,5,468057,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,4
+1/12/2013,5,468265,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,15
+1/12/2013,5,469643,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,2
+1/12/2013,5,470624,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,16
+1/12/2013,5,470625,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,4
+1/12/2013,5,470760,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,1
+1/12/2013,5,470762,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,2
+1/12/2013,5,471980,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,12
+1/12/2013,5,471985,D,4,Santo Domingo de los Tsachilas,DAIRY,2114,1,3,6,2,2
+1/12/2013,5,472645,D,4,Santo Domingo de los Tsachilas,GROCERY I,1002,0,3,1,2,1
+1/12/2013,5,472658,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,4
+1/12/2013,5,476261,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,2
+1/12/2013,5,476707,D,4,Santo Domingo de los Tsachilas,DAIRY,2104,1,3,6,2,10
+1/12/2013,5,502067,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,6
+1/12/2013,5,502182,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2716,1,3,0,2,3
+1/12/2013,5,502227,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,1
+1/12/2013,5,502230,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,6
+1/12/2013,5,502331,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,53
+1/12/2013,5,507354,D,4,Santo Domingo de los Tsachilas,DELI,2690,1,3,2,2,0.192
+1/12/2013,5,507457,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2218,0,3,12,2,2
+1/12/2013,5,507478,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,7
+1/12/2013,5,507479,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,2
+1/12/2013,5,507641,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,5
+1/12/2013,5,507867,D,4,Santo Domingo de los Tsachilas,GROCERY I,1070,0,3,1,2,7
+1/12/2013,5,507870,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,14
+1/12/2013,5,507958,D,4,Santo Domingo de los Tsachilas,POULTRY,2416,1,3,8,2,12.349
+1/12/2013,5,507969,D,4,Santo Domingo de los Tsachilas,POULTRY,2416,1,3,8,2,30.602
+1/12/2013,5,508069,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,10
+1/12/2013,5,508947,D,4,Santo Domingo de los Tsachilas,DAIRY,2112,1,3,6,2,2
+1/12/2013,5,509877,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,1
+1/12/2013,5,510054,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,15
+1/12/2013,5,511172,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,5
+1/12/2013,5,511397,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,1
+1/12/2013,5,513379,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,1
+1/12/2013,5,513853,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,1
+1/12/2013,5,513855,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,4
+1/12/2013,5,514149,D,4,Santo Domingo de los Tsachilas,GROCERY I,1066,0,3,1,2,7
+1/12/2013,5,514172,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,12
+1/12/2013,5,514242,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,1
+1/12/2013,5,514327,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2986,1,3,10,2,15
+1/12/2013,5,514446,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,4
+1/12/2013,5,514597,D,4,Santo Domingo de los Tsachilas,GROCERY I,1012,0,3,1,2,3
+1/12/2013,5,514730,D,4,Santo Domingo de los Tsachilas,GROCERY I,1056,0,3,1,2,1
+1/12/2013,5,514757,D,4,Santo Domingo de los Tsachilas,CLEANING,3090,0,3,3,2,1
+1/12/2013,5,517615,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,8
+1/12/2013,5,517903,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,2
+1/12/2013,5,517904,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,8
+1/12/2013,5,517905,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,7
+1/12/2013,5,517906,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,10
+1/12/2013,5,518091,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,9
+1/12/2013,5,518094,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,519560,D,4,Santo Domingo de los Tsachilas,DELI,2662,1,3,2,2,1.028
+1/12/2013,5,521818,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,3
+1/12/2013,5,522383,D,4,Santo Domingo de los Tsachilas,GROCERY I,1002,0,3,1,2,1
+1/12/2013,5,522721,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,1
+1/12/2013,5,523054,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,7
+1/12/2013,5,525887,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,3
+1/12/2013,5,525902,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,8
+1/12/2013,5,527757,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,6
+1/12/2013,5,552050,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2716,1,3,0,2,3
+1/12/2013,5,554047,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,15
+1/12/2013,5,554048,D,4,Santo Domingo de los Tsachilas,GROCERY I,1044,0,3,1,2,6
+1/12/2013,5,554049,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,13
+1/12/2013,5,554143,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,7
+1/12/2013,5,554152,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,2
+1/12/2013,5,556698,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,2
+1/12/2013,5,557256,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,5
+1/12/2013,5,557257,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,6
+1/12/2013,5,557285,D,4,Santo Domingo de los Tsachilas,DELI,2630,1,3,2,2,23
+1/12/2013,5,557286,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,4
+1/12/2013,5,557408,D,4,Santo Domingo de los Tsachilas,DAIRY,2142,1,3,6,2,10
+1/12/2013,5,557810,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,3
+1/12/2013,5,559044,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2716,1,3,0,2,3
+1/12/2013,5,559494,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,2
+1/12/2013,5,559682,D,4,Santo Domingo de los Tsachilas,GROCERY I,1086,0,3,1,2,2
+1/12/2013,5,559870,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,57
+1/12/2013,5,559873,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,15
+1/12/2013,5,563654,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,2
+1/12/2013,5,563966,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,1
+1/12/2013,5,564110,D,4,Santo Domingo de los Tsachilas,GROCERY I,1066,0,3,1,2,15
+1/12/2013,5,564272,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,4
+1/12/2013,5,564274,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,10
+1/12/2013,5,564287,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,1
+1/12/2013,5,564288,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,1
+1/12/2013,5,564533,D,4,Santo Domingo de los Tsachilas,GROCERY I,1012,0,3,1,2,45
+1/12/2013,5,564534,D,4,Santo Domingo de los Tsachilas,GROCERY I,1012,0,3,1,2,5
+1/12/2013,5,567579,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,3
+1/12/2013,5,567588,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,5
+1/12/2013,5,567623,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,17
+1/12/2013,5,567778,D,4,Santo Domingo de los Tsachilas,DELI,2630,1,3,2,2,4
+1/12/2013,5,567779,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,1
+1/12/2013,5,567781,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,3
+1/12/2013,5,567787,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,1
+1/12/2013,5,568133,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,570917,D,4,Santo Domingo de los Tsachilas,GROCERY I,1054,0,3,1,2,2
+1/12/2013,5,570922,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,3
+1/12/2013,5,572838,D,4,Santo Domingo de los Tsachilas,CLEANING,3022,0,3,3,2,2
+1/12/2013,5,573832,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,4
+1/12/2013,5,574898,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,3
+1/12/2013,5,575630,D,4,Santo Domingo de los Tsachilas,GROCERY I,1035,0,3,1,2,6
+1/12/2013,5,575863,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,3
+1/12/2013,5,575875,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,9
+1/12/2013,5,575876,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,3
+1/12/2013,5,577740,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,5
+1/12/2013,5,577741,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,5
+1/12/2013,5,577743,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,2
+1/12/2013,5,578097,D,4,Santo Domingo de los Tsachilas,DAIRY,2102,1,3,6,2,8
+1/12/2013,5,578467,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,1
+1/12/2013,5,580929,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,4
+1/12/2013,5,581078,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,24
+1/12/2013,5,581742,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,10
+1/12/2013,5,582863,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,9.837
+1/12/2013,5,582864,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,29.431
+1/12/2013,5,582865,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,12.573
+1/12/2013,5,583795,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,7.647
+1/12/2013,5,583797,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,14.489
+1/12/2013,5,583799,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,11.747
+1/12/2013,5,583868,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,9.269
+1/12/2013,5,583925,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,5.498
+1/12/2013,5,583968,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,15.004
+1/12/2013,5,583973,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,4.382
+1/12/2013,5,584026,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,13.293
+1/12/2013,5,584027,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,15.406
+1/12/2013,5,584028,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,100.535
+1/12/2013,5,584078,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,8.337
+1/12/2013,5,584099,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,9.331
+1/12/2013,5,586823,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,3
+1/12/2013,5,586969,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,11
+1/12/2013,5,587069,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,18
+1/12/2013,5,587186,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,11
+1/12/2013,5,589403,D,4,Santo Domingo de los Tsachilas,SEAFOOD,2850,1,3,18,2,2
+1/12/2013,5,592942,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,4
+1/12/2013,5,594045,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,2
+1/12/2013,5,598414,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,5
+1/12/2013,5,598492,D,4,Santo Domingo de los Tsachilas,GROCERY I,1032,0,3,1,2,1
+1/12/2013,5,617096,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,5
+1/12/2013,5,619965,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,10
+1/12/2013,5,619969,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,1
+1/12/2013,5,621300,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,13
+1/12/2013,5,627885,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,1
+1/12/2013,5,627887,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,4
+1/12/2013,5,633996,D,4,Santo Domingo de los Tsachilas,MEATS,2306,1,3,13,2,4.579
+1/12/2013,5,634008,D,4,Santo Domingo de los Tsachilas,MEATS,2306,1,3,13,2,3.641
+1/12/2013,5,634009,D,4,Santo Domingo de los Tsachilas,MEATS,2306,1,3,13,2,14.162
+1/12/2013,5,634014,D,4,Santo Domingo de los Tsachilas,MEATS,2306,1,3,13,2,4.071
+1/12/2013,5,637016,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,13
+1/12/2013,5,638240,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,4
+1/12/2013,5,638296,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,3
+1/12/2013,5,640286,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1336,0,3,14,2,1
+1/12/2013,5,641042,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,8
+1/12/2013,5,648313,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,6
+1/12/2013,5,651326,D,4,Santo Domingo de los Tsachilas,GROCERY I,1036,0,3,1,2,4
+1/12/2013,5,651523,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,5
+1/12/2013,5,655427,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,5
+1/12/2013,5,655840,D,4,Santo Domingo de los Tsachilas,LINGERIE,7034,0,3,9,2,2
+1/12/2013,5,657869,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,4
+1/12/2013,5,658609,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,2
+1/12/2013,5,660502,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,9
+1/12/2013,5,664537,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,4
+1/12/2013,5,664543,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,5
+1/12/2013,5,668752,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,6
+1/12/2013,5,668753,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,6
+1/12/2013,5,668754,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,3
+1/12/2013,5,671039,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,671051,D,4,Santo Domingo de los Tsachilas,DELI,2630,1,3,2,2,3
+1/12/2013,5,671055,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,6
+1/12/2013,5,671062,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,4
+1/12/2013,5,671066,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,3
+1/12/2013,5,671068,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,2
+1/12/2013,5,671076,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,2
+1/12/2013,5,671079,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,2
+1/12/2013,5,671084,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,1
+1/12/2013,5,671706,D,4,Santo Domingo de los Tsachilas,DELI,2664,1,3,2,2,1.042
+1/12/2013,5,671708,D,4,Santo Domingo de los Tsachilas,DELI,2664,1,3,2,2,2.439
+1/12/2013,5,671908,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,5
+1/12/2013,5,673306,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,1
+1/12/2013,5,675524,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2956,1,3,10,2,9
+1/12/2013,5,679442,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,19
+1/12/2013,5,679602,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,5
+1/12/2013,5,679604,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,3
+1/12/2013,5,679926,D,4,Santo Domingo de los Tsachilas,EGGS,2502,1,3,7,2,1
+1/12/2013,5,681606,D,4,Santo Domingo de los Tsachilas,DAIRY,2112,1,3,6,2,10
+1/12/2013,5,682321,D,4,Santo Domingo de los Tsachilas,CLEANING,3028,0,3,3,2,1
+1/12/2013,5,682884,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,1
+1/12/2013,5,683720,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,3
+1/12/2013,5,683721,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,3
+1/12/2013,5,683722,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,3
+1/12/2013,5,683723,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,3
+1/12/2013,5,686034,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,3
+1/12/2013,5,686035,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,686036,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,5
+1/12/2013,5,692104,D,4,Santo Domingo de los Tsachilas,CLEANING,3014,0,3,3,2,5
+1/12/2013,5,692106,D,4,Santo Domingo de los Tsachilas,CLEANING,3014,0,3,3,2,1
+1/12/2013,5,692531,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,15
+1/12/2013,5,692537,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,8
+1/12/2013,5,695758,D,4,Santo Domingo de los Tsachilas,SEAFOOD,2802,1,3,18,2,1.844
+1/12/2013,5,699692,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,12.081
+1/12/2013,5,700607,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,1
+1/12/2013,5,700609,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2220,0,3,12,2,1
+1/12/2013,5,700610,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2220,0,3,12,2,1
+1/12/2013,5,716241,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,1
+1/12/2013,5,716242,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,1
+1/12/2013,5,716250,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,15
+1/12/2013,5,716958,D,4,Santo Domingo de los Tsachilas,BEAUTY,4254,0,3,16,2,1
+1/12/2013,5,723184,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,6
+1/12/2013,5,723210,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,2
+1/12/2013,5,724003,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,2
+1/12/2013,5,724359,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2956,1,3,10,2,6
+1/12/2013,5,724403,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2722,1,3,0,2,4
+1/12/2013,5,724498,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,8
+1/12/2013,5,730258,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,8
+1/12/2013,5,730259,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,5
+1/12/2013,5,732006,D,4,Santo Domingo de los Tsachilas,DELI,2642,1,3,2,2,5
+1/12/2013,5,732007,D,4,Santo Domingo de los Tsachilas,DELI,2642,1,3,2,2,7
+1/12/2013,5,736128,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2722,1,3,0,2,3
+1/12/2013,5,738219,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,21
+1/12/2013,5,740713,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,1
+1/12/2013,5,740722,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,6
+1/12/2013,5,740723,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,3
+1/12/2013,5,740726,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,9
+1/12/2013,5,740728,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,7
+1/12/2013,5,740729,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,7
+1/12/2013,5,741201,D,4,Santo Domingo de los Tsachilas,SEAFOOD,2854,1,3,18,2,3
+1/12/2013,5,742735,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,2
+1/12/2013,5,742738,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,1
+1/12/2013,5,743494,D,4,Santo Domingo de los Tsachilas,CLEANING,3022,0,3,3,2,6
+1/12/2013,5,743497,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2222,0,3,12,2,1
+1/12/2013,5,749421,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,8
+1/12/2013,5,749720,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,11
+1/12/2013,5,749729,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,1
+1/12/2013,5,750855,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,3
+1/12/2013,5,750856,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,1
+1/12/2013,5,752987,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,4
+1/12/2013,5,754103,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,3
+1/12/2013,5,757880,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,4
+1/12/2013,5,757888,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,14
+1/12/2013,5,759651,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,3
+1/12/2013,5,759657,D,4,Santo Domingo de los Tsachilas,LINGERIE,7016,0,3,9,2,1
+1/12/2013,5,759694,D,4,Santo Domingo de los Tsachilas,GROCERY I,1070,0,3,1,2,4
+1/12/2013,5,759697,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,1
+1/12/2013,5,759698,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,2
+1/12/2013,5,759890,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,5
+1/12/2013,5,759893,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,23
+1/12/2013,5,762405,D,4,Santo Domingo de los Tsachilas,CLEANING,3030,0,3,3,2,2
+1/12/2013,5,764439,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,2
+1/12/2013,5,765517,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,6
+1/12/2013,5,765518,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,10
+1/12/2013,5,765519,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,7
+1/12/2013,5,765520,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,1
+1/12/2013,5,769312,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,7
+1/12/2013,5,769314,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,4
+1/12/2013,5,770453,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,5
+1/12/2013,5,770461,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,1
+1/12/2013,5,770463,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,6
+1/12/2013,5,771156,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,2
+1/12/2013,5,771157,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,2
+1/12/2013,5,781794,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,3,12,2,27
+1/12/2013,5,781796,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,3,12,2,15
+1/12/2013,5,781797,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,3,12,2,8
+1/12/2013,5,781798,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,3,12,2,2
+1/12/2013,5,783243,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,23
+1/12/2013,5,789223,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,7
+1/12/2013,5,789224,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,10
+1/12/2013,5,789905,D,4,Santo Domingo de los Tsachilas,DAIRY,2102,1,3,6,2,9
+1/12/2013,5,793341,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,1
+1/12/2013,5,793345,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,1
+1/12/2013,5,793346,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,3
+1/12/2013,5,794245,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,1
+1/12/2013,5,795610,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2220,0,3,12,2,5
+1/12/2013,5,795612,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2220,0,3,12,2,1
+1/12/2013,5,796394,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,2
+1/12/2013,5,796395,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,5
+1/12/2013,5,796396,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,1
+1/12/2013,5,799461,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,1
+1/12/2013,5,801217,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,4
+1/12/2013,5,801934,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,7
+1/12/2013,5,802831,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,2
+1/12/2013,5,802832,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,9
+1/12/2013,5,802833,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,21
+1/12/2013,5,803101,D,4,Santo Domingo de los Tsachilas,CLEANING,3060,0,3,3,2,1
+1/12/2013,5,804503,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,5
+1/12/2013,5,804932,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,3
+1/12/2013,5,804974,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,13
+1/12/2013,5,805311,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,7
+1/12/2013,5,805788,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,2
+1/12/2013,5,807493,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,90
+1/12/2013,5,809183,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,1
+1/12/2013,5,809882,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,4
+1/12/2013,5,812725,D,4,Santo Domingo de los Tsachilas,CLEANING,3040,0,3,3,2,1
+1/12/2013,5,812726,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,6
+1/12/2013,5,812751,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,4
+1/12/2013,5,812757,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,2
+1/12/2013,5,812769,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,2
+1/12/2013,5,813770,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2986,1,3,10,2,20
+1/12/2013,5,816606,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,3
+1/12/2013,5,816679,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,2.093
+1/12/2013,5,818590,D,4,Santo Domingo de los Tsachilas,HARDWARE,6706,0,3,19,2,1
+1/12/2013,5,819194,D,4,Santo Domingo de los Tsachilas,GROCERY I,1002,0,3,1,2,4
+1/12/2013,5,819206,D,4,Santo Domingo de los Tsachilas,MEATS,2304,1,3,13,2,13.715
+1/12/2013,5,819209,D,4,Santo Domingo de los Tsachilas,MEATS,2304,1,3,13,2,17.115
+1/12/2013,5,819228,D,4,Santo Domingo de los Tsachilas,MEATS,2304,1,3,13,2,7.282
+1/12/2013,5,819230,D,4,Santo Domingo de los Tsachilas,MEATS,2304,1,3,13,2,9.543
+1/12/2013,5,819231,D,4,Santo Domingo de los Tsachilas,MEATS,2304,1,3,13,2,2.049
+1/12/2013,5,819932,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,28
+1/12/2013,5,819933,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,12
+1/12/2013,5,819934,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,14
+1/12/2013,5,823245,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,11
+1/12/2013,5,827911,D,4,Santo Domingo de los Tsachilas,GROCERY I,1096,0,3,1,2,2
+1/12/2013,5,828204,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,4
+1/12/2013,5,828630,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,9
+1/12/2013,5,828632,D,4,Santo Domingo de los Tsachilas,DELI,2644,1,3,2,2,4
+1/12/2013,5,829389,D,4,Santo Domingo de los Tsachilas,GROCERY I,1025,0,3,1,2,3
+1/12/2013,5,829414,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,4
+1/12/2013,5,830624,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,9
+1/12/2013,5,830625,D,4,Santo Domingo de los Tsachilas,CLEANING,3032,0,3,3,2,5
+1/12/2013,5,830749,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,1
+1/12/2013,5,830797,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,1
+1/12/2013,5,830806,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2716,1,3,0,2,1
+1/12/2013,5,833395,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,1
+1/12/2013,5,833396,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,2
+1/12/2013,5,838215,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,11
+1/12/2013,5,838216,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,9
+1/12/2013,5,838217,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,4
+1/12/2013,5,838400,D,4,Santo Domingo de los Tsachilas,DAIRY,2102,1,3,6,2,2
+1/12/2013,5,838406,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,4
+1/12/2013,5,838407,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,2
+1/12/2013,5,838408,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,2
+1/12/2013,5,838832,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,2
+1/12/2013,5,838842,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,25
+1/12/2013,5,839362,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,53
+1/12/2013,5,839363,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,24
+1/12/2013,5,839367,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,2
+1/12/2013,5,839544,D,4,Santo Domingo de los Tsachilas,DAIRY,2142,1,3,6,2,1
+1/12/2013,5,841197,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,5
+1/12/2013,5,841514,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,4
+1/12/2013,5,841570,D,4,Santo Domingo de los Tsachilas,GROCERY I,1070,0,3,1,2,2
+1/12/2013,5,841583,D,4,Santo Domingo de los Tsachilas,GROCERY I,1014,0,3,1,2,2
+1/12/2013,5,841607,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,3
+1/12/2013,5,841612,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,11
+1/12/2013,5,841614,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,9
+1/12/2013,5,841667,D,4,Santo Domingo de los Tsachilas,DAIRY,2128,1,3,6,2,3
+1/12/2013,5,841841,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,9
+1/12/2013,5,841842,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,28
+1/12/2013,5,843411,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,1
+1/12/2013,5,843462,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,3
+1/12/2013,5,843585,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,6
+1/12/2013,5,843607,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,3
+1/12/2013,5,843608,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,1
+1/12/2013,5,843609,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,2
+1/12/2013,5,843610,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,3
+1/12/2013,5,844017,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,4
+1/12/2013,5,844019,D,4,Santo Domingo de los Tsachilas,DELI,2662,1,3,2,2,0.62
+1/12/2013,5,846565,D,4,Santo Domingo de los Tsachilas,CLEANING,3014,0,3,3,2,3
+1/12/2013,5,847859,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,5
+1/12/2013,5,847863,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,11
+1/12/2013,5,847894,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,2
+1/12/2013,5,848765,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,11
+1/12/2013,5,848953,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,6
+1/12/2013,5,849080,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,3
+1/12/2013,5,849098,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,8
+1/12/2013,5,849135,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,3
+1/12/2013,5,849136,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,4
+1/12/2013,5,849139,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,3
+1/12/2013,5,849142,D,4,Santo Domingo de los Tsachilas,DAIRY,2130,1,3,6,2,3
+1/12/2013,5,849312,D,4,Santo Domingo de los Tsachilas,DAIRY,2130,1,3,6,2,2
+1/12/2013,5,850333,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,19
+1/12/2013,5,850334,D,4,Santo Domingo de los Tsachilas,GROCERY I,1084,0,3,1,2,5
+1/12/2013,5,850460,D,4,Santo Domingo de los Tsachilas,GROCERY I,1008,0,3,1,2,12
+1/12/2013,5,850545,D,4,Santo Domingo de los Tsachilas,CLEANING,3035,0,3,3,2,1
+1/12/2013,5,852110,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,9
+1/12/2013,5,852620,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,1
+1/12/2013,5,853195,D,4,Santo Domingo de los Tsachilas,CLEANING,3014,0,3,3,2,2
+1/12/2013,5,853196,D,4,Santo Domingo de los Tsachilas,CLEANING,3014,0,3,3,2,6
+1/12/2013,5,858872,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2704,1,3,0,2,2
+1/12/2013,5,859932,D,4,Santo Domingo de los Tsachilas,CLEANING,3022,0,3,3,2,1
+1/12/2013,5,859966,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,14
+1/12/2013,5,862213,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,3
+1/12/2013,5,862454,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,19
+1/12/2013,5,864288,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,864508,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,10
+1/12/2013,5,864510,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,12
+1/12/2013,5,865155,D,4,Santo Domingo de los Tsachilas,GROCERY I,1058,0,3,1,2,2
+1/12/2013,5,866927,D,4,Santo Domingo de los Tsachilas,DELI,2632,1,3,2,2,4
+1/12/2013,5,867850,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,5
+1/12/2013,5,868529,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,5
+1/12/2013,5,869837,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,870544,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,10
+1/12/2013,5,870545,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,12
+1/12/2013,5,870546,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,1
+1/12/2013,5,870938,D,4,Santo Domingo de los Tsachilas,DAIRY,2124,1,3,6,2,9
+1/12/2013,5,871118,D,4,Santo Domingo de los Tsachilas,DELI,2662,1,3,2,2,3.468
+1/12/2013,5,871421,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,12
+1/12/2013,5,872306,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,1
+1/12/2013,5,872317,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,2
+1/12/2013,5,874593,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,1
+1/12/2013,5,874990,D,4,Santo Domingo de los Tsachilas,CLEANING,3008,0,3,3,2,3
+1/12/2013,5,876223,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,5
+1/12/2013,5,876663,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,3
+1/12/2013,5,877513,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,12
+1/12/2013,5,877514,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,12
+1/12/2013,5,878715,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,1
+1/12/2013,5,881701,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,1
+1/12/2013,5,881910,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,2
+1/12/2013,5,881911,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,3
+1/12/2013,5,881912,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,1
+1/12/2013,5,884878,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,5
+1/12/2013,5,885543,D,4,Santo Domingo de los Tsachilas,PREPARED FOODS,2966,1,3,10,2,14
+1/12/2013,5,885553,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,2
+1/12/2013,5,886067,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,3
+1/12/2013,5,886396,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,1
+1/12/2013,5,886398,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,1
+1/12/2013,5,888630,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,3,12,2,1
+1/12/2013,5,888761,D,4,Santo Domingo de los Tsachilas,DELI,2646,1,3,2,2,6
+1/12/2013,5,888763,D,4,Santo Domingo de los Tsachilas,DELI,2646,1,3,2,2,3
+1/12/2013,5,890213,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,3
+1/12/2013,5,890215,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,7
+1/12/2013,5,898656,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,13
+1/12/2013,5,902839,D,4,Santo Domingo de los Tsachilas,GROCERY I,1060,0,3,1,2,1
+1/12/2013,5,903284,D,4,Santo Domingo de los Tsachilas,POULTRY,2416,1,3,8,2,63.429
+1/12/2013,5,903955,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,906979,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,1
+1/12/2013,5,907671,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,9
+1/12/2013,5,907684,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,4
+1/12/2013,5,908741,D,4,Santo Domingo de los Tsachilas,LAWN AND GARDEN,6918,0,3,15,2,1
+1/12/2013,5,911429,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,1
+1/12/2013,5,911871,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,16
+1/12/2013,5,913363,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,11
+1/12/2013,5,913364,D,4,Santo Domingo de los Tsachilas,CLEANING,3038,0,3,3,2,8
+1/12/2013,5,913521,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,3
+1/12/2013,5,913964,D,4,Santo Domingo de los Tsachilas,GROCERY I,1036,0,3,1,2,2
+1/12/2013,5,913967,D,4,Santo Domingo de los Tsachilas,GROCERY I,1036,0,3,1,2,2
+1/12/2013,5,913968,D,4,Santo Domingo de los Tsachilas,GROCERY I,1036,0,3,1,2,5
+1/12/2013,5,915822,D,4,Santo Domingo de los Tsachilas,LAWN AND GARDEN,6918,0,3,15,2,1
+1/12/2013,5,916886,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,2
+1/12/2013,5,921042,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,1
+1/12/2013,5,926958,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,3
+1/12/2013,5,928477,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,1
+1/12/2013,5,929893,D,4,Santo Domingo de los Tsachilas,GROCERY I,1094,0,3,1,2,1
+1/12/2013,5,936341,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,4
+1/12/2013,5,936994,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,3
+1/12/2013,5,938126,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,10
+1/12/2013,5,938129,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,2
+1/12/2013,5,938566,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,19
+1/12/2013,5,938567,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,13
+1/12/2013,5,938570,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,1
+1/12/2013,5,938574,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,7
+1/12/2013,5,938576,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,4
+1/12/2013,5,939129,D,4,Santo Domingo de los Tsachilas,DAIRY,2104,1,3,6,2,6
+1/12/2013,5,939130,D,4,Santo Domingo de los Tsachilas,DAIRY,2104,1,3,6,2,5
+1/12/2013,5,939131,D,4,Santo Domingo de los Tsachilas,DAIRY,2104,1,3,6,2,2
+1/12/2013,5,939207,D,4,Santo Domingo de los Tsachilas,DAIRY,2130,1,3,6,2,20
+1/12/2013,5,939210,D,4,Santo Domingo de los Tsachilas,DAIRY,2130,1,3,6,2,7
+1/12/2013,5,939661,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,3
+1/12/2013,5,939662,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,6
+1/12/2013,5,939663,D,4,Santo Domingo de los Tsachilas,GROCERY I,1045,0,3,1,2,2
+1/12/2013,5,940591,D,4,Santo Domingo de los Tsachilas,CLEANING,3016,0,3,3,2,3
+1/12/2013,5,949053,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,4
+1/12/2013,5,949243,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,3,4,2,12
+1/12/2013,5,949296,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,8
+1/12/2013,5,949297,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,5
+1/12/2013,5,949511,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,1
+1/12/2013,5,949629,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,5
+1/12/2013,5,953413,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,1
+1/12/2013,5,953562,D,4,Santo Domingo de los Tsachilas,GROCERY I,1062,0,3,1,2,7
+1/12/2013,5,954553,D,4,Santo Domingo de los Tsachilas,DAIRY,2108,1,3,6,2,1
+1/12/2013,5,956011,D,4,Santo Domingo de los Tsachilas,GROCERY I,1064,0,3,1,2,1
+1/12/2013,5,956012,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,2
+1/12/2013,5,956013,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,14
+1/12/2013,5,956014,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,12
+1/12/2013,5,957096,D,4,Santo Domingo de los Tsachilas,DAIRY,2130,1,3,6,2,1
+1/12/2013,5,957098,D,4,Santo Domingo de los Tsachilas,DAIRY,2130,1,3,6,2,5
+1/12/2013,5,958015,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,8
+1/12/2013,5,959437,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,6
+1/12/2013,5,959502,D,4,Santo Domingo de los Tsachilas,CLEANING,3040,0,3,3,2,5
+1/12/2013,5,964752,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,11
+1/12/2013,5,964753,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,4
+1/12/2013,5,968432,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,6
+1/12/2013,5,968935,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,3,14,2,11
+1/12/2013,5,968936,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,3,14,2,1
+1/12/2013,5,968937,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,3,14,2,3
+1/12/2013,5,977007,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,19
+1/12/2013,5,979195,D,4,Santo Domingo de los Tsachilas,CLEANING,3028,0,3,3,2,3
+1/12/2013,5,979196,D,4,Santo Domingo de los Tsachilas,CLEANING,3028,0,3,3,2,2
+1/12/2013,5,982726,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,4
+1/12/2013,5,982727,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,12
+1/12/2013,5,983310,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,1
+1/12/2013,5,986193,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,3
+1/12/2013,5,991114,D,4,Santo Domingo de los Tsachilas,DELI,2636,1,3,2,2,8
+1/12/2013,5,991329,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,6
+1/12/2013,5,996122,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,3
+1/12/2013,5,996537,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,2
+1/12/2013,5,996613,D,4,Santo Domingo de los Tsachilas,MEATS,2372,1,3,13,2,0.923
+1/12/2013,5,999545,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,2
+1/12/2013,5,999546,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,5
+1/12/2013,5,999547,D,4,Santo Domingo de los Tsachilas,CLEANING,3026,0,3,3,2,8
+1/12/2013,5,1001305,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,6
+1/12/2013,5,1003679,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,1
+1/12/2013,5,1004550,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,30
+1/12/2013,5,1004551,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,15
+1/12/2013,5,1005458,D,4,Santo Domingo de los Tsachilas,LINGERIE,7002,0,3,9,2,1
+1/12/2013,5,1005461,D,4,Santo Domingo de los Tsachilas,LINGERIE,7002,0,3,9,2,4
+1/12/2013,5,1005464,D,4,Santo Domingo de los Tsachilas,LINGERIE,7002,0,3,9,2,3
+1/12/2013,5,1009512,D,4,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,3,17,2,1
+1/12/2013,5,1009539,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,2
+1/12/2013,5,1009997,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,1
+1/12/2013,5,1009998,D,4,Santo Domingo de los Tsachilas,CLEANING,3024,0,3,3,2,1
+1/12/2013,5,1014864,D,4,Santo Domingo de los Tsachilas,DAIRY,2108,1,3,6,2,4
+1/12/2013,5,1014865,D,4,Santo Domingo de los Tsachilas,DAIRY,2108,1,3,6,2,8
+1/12/2013,5,1018516,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,2
+1/12/2013,5,1018617,D,4,Santo Domingo de los Tsachilas,GROCERY I,1086,0,3,1,2,5
+1/12/2013,5,1021281,D,4,Santo Domingo de los Tsachilas,CLEANING,3034,0,3,3,2,1
+1/12/2013,5,1028589,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,14
+1/12/2013,5,1033395,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,3,0,2,1
+1/12/2013,5,1036189,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,1.853
+1/12/2013,5,1036317,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,5
+1/12/2013,5,1036689,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,12
+1/12/2013,5,1037654,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4122,0,3,4,2,1
+1/12/2013,5,1037838,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2210,0,3,12,2,1
+1/12/2013,5,1037845,D,4,Santo Domingo de los Tsachilas,GROCERY I,1022,0,3,1,2,4
+1/12/2013,5,1037846,D,4,Santo Domingo de los Tsachilas,GROCERY I,1022,0,3,1,2,6
+1/12/2013,5,1037856,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,1
+1/12/2013,5,1037857,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,10
+1/12/2013,5,1038937,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2704,1,3,0,2,7
+1/12/2013,5,1038946,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,1
+1/12/2013,5,1038952,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2714,1,3,0,2,4
+1/12/2013,5,1038953,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2714,1,3,0,2,1
+1/12/2013,5,1038954,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2714,1,3,0,2,12
+1/12/2013,5,1038962,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,3,0,2,2
+1/12/2013,5,1039087,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,2
+1/12/2013,5,1040170,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2222,0,3,12,2,2
+1/12/2013,5,1044592,D,4,Santo Domingo de los Tsachilas,DAIRY,2156,1,3,6,2,7
+1/12/2013,5,1045449,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,3,0,2,5
+1/12/2013,5,1046272,D,4,Santo Domingo de los Tsachilas,GROCERY I,1072,0,3,1,2,6
+1/12/2013,5,1047675,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,5
+1/12/2013,5,1047679,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,15
+1/12/2013,5,1047680,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,4
+1/12/2013,5,1047681,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,35
+1/12/2013,5,1047685,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,21
+1/12/2013,5,1047690,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,10
+1/12/2013,5,1047695,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,1047696,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,1047699,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,3
+1/12/2013,5,1047705,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,3
+1/12/2013,5,1047707,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,1047709,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,1047717,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,5
+1/12/2013,5,1047721,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,1047734,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,1
+1/12/2013,5,1047743,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,3,5,2,3
+1/12/2013,5,1047751,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,5
+1/12/2013,5,1047753,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,15
+1/12/2013,5,1047755,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,4
+1/12/2013,5,1047756,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,4
+1/12/2013,5,1047757,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,12
+1/12/2013,5,1047758,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,4
+1/12/2013,5,1047772,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,30
+1/12/2013,5,1047773,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,39
+1/12/2013,5,1047774,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,23
+1/12/2013,5,1047775,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,32
+1/12/2013,5,1047786,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,10
+1/12/2013,5,1047790,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1138,0,3,5,2,33
+1/12/2013,5,1052563,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,12
+1/12/2013,5,1054129,D,4,Santo Domingo de los Tsachilas,GROCERY I,1002,0,3,1,2,1
+1/12/2013,5,1057033,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,7
+1/12/2013,5,1057034,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,3
+1/12/2013,5,1057490,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,1
+1/12/2013,5,1057491,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,4
+1/12/2013,5,1057495,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,7
+1/12/2013,5,1058820,D,4,Santo Domingo de los Tsachilas,CLEANING,3004,0,3,3,2,5
+1/12/2013,5,1060036,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1138,0,3,5,2,5
+1/12/2013,5,1062374,D,4,Santo Domingo de los Tsachilas,MEATS,2302,1,3,13,2,3.968
+1/12/2013,5,1062926,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,1062927,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,1064018,D,4,Santo Domingo de los Tsachilas,GROCERY I,1078,0,3,1,2,1
+1/12/2013,5,1066900,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,3,5,2,14
+1/12/2013,5,1066901,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,3,5,2,10
+1/12/2013,5,1070962,D,4,Santo Domingo de los Tsachilas,GROCERY I,1026,0,3,1,2,6
+1/12/2013,5,1071928,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,10
+1/12/2013,5,1071949,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,2
+1/12/2013,5,1074327,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,4
+1/12/2013,5,1075891,D,4,Santo Domingo de los Tsachilas,CLEANING,3018,0,3,3,2,5
+1/12/2013,5,1076066,D,4,Santo Domingo de los Tsachilas,GROCERY I,1003,0,3,1,2,8
+1/12/2013,5,1076155,D,4,Santo Domingo de los Tsachilas,GROCERY I,1010,0,3,1,2,1
+1/12/2013,5,1076335,D,4,Santo Domingo de los Tsachilas,GROCERY I,1086,0,3,1,2,2
+1/12/2013,5,1078288,D,4,Santo Domingo de los Tsachilas,GROCERY I,1004,0,3,1,2,4
+1/12/2013,5,1079214,D,4,Santo Domingo de los Tsachilas,CLEANING,3022,0,3,3,2,4
+1/12/2013,5,1079215,D,4,Santo Domingo de los Tsachilas,CLEANING,3022,0,3,3,2,3
+1/12/2013,5,1079220,D,4,Santo Domingo de los Tsachilas,CLEANING,3022,0,3,3,2,1
+1/12/2013,5,1079254,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,3
+1/12/2013,5,1079257,D,4,Santo Domingo de los Tsachilas,CLEANING,3030,0,3,3,2,5
+1/12/2013,5,1079329,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1364,0,3,14,2,3
+1/12/2013,5,1080001,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1314,0,3,14,2,1
+1/12/2013,5,1080021,D,4,Santo Domingo de los Tsachilas,GROCERY I,1022,0,3,1,2,12
+1/12/2013,5,1081359,D,4,Santo Domingo de los Tsachilas,GROCERY I,1088,0,3,1,2,4
+1/12/2013,5,1082042,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,2
+1/12/2013,5,1083152,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,5
+1/12/2013,5,1083196,D,4,Santo Domingo de los Tsachilas,DAIRY,2116,1,3,6,2,13
+1/12/2013,5,1084417,D,4,Santo Domingo de los Tsachilas,GROCERY I,1048,0,3,1,2,1
+1/12/2013,5,1084425,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,3,5,2,1
+1/12/2013,5,1084437,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,3
+1/12/2013,5,1084881,D,4,Santo Domingo de los Tsachilas,GROCERY I,1040,0,3,1,2,26
+1/12/2013,5,1087270,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,2
+1/12/2013,5,1088002,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,3,5,2,2
+1/12/2013,5,1089044,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,5
+1/12/2013,5,1089045,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,10
+1/12/2013,5,1089046,D,4,Santo Domingo de los Tsachilas,CLEANING,3020,0,3,3,2,4
+1/12/2013,5,1089079,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,2
+1/12/2013,5,1089163,D,4,Santo Domingo de los Tsachilas,EGGS,2504,1,3,7,2,3
+1/12/2013,5,1089843,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,9
+1/12/2013,5,1089844,D,4,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,3,0,2,3
+1/12/2013,5,1090401,D,4,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,3,14,2,9
+1/12/2013,5,1090419,D,4,Santo Domingo de los Tsachilas,CLEANING,3046,0,3,3,2,3
+1/12/2013,5,1091366,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,10
+1/12/2013,5,1091367,D,4,Santo Domingo de los Tsachilas,GROCERY I,1016,0,3,1,2,2
+1/12/2013,5,1091467,D,4,Santo Domingo de los Tsachilas,MEATS,2306,1,3,13,2,3.029
+1/12/2013,5,1092061,D,4,Santo Domingo de los Tsachilas,DAIRY,2142,1,3,6,2,3
+1/12/2013,5,1092106,D,4,Santo Domingo de los Tsachilas,MEATS,2306,1,3,13,2,10.095
+1/12/2013,5,1094235,D,4,Santo Domingo de los Tsachilas,GROCERY I,1028,0,3,1,2,1
+1/12/2013,5,1096235,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,51
+1/12/2013,5,1097187,D,4,Santo Domingo de los Tsachilas,GROCERY I,1042,0,3,1,2,4
+1/12/2013,5,1099990,D,4,Santo Domingo de los Tsachilas,GROCERY I,1030,0,3,1,2,23
+1/12/2013,5,1102268,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,10
+1/12/2013,5,1102970,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,1
+1/12/2013,5,1102971,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,4
+1/12/2013,5,1102975,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,3
+1/12/2013,5,1102976,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,3,5,2,3
+1/12/2013,5,1104598,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,5
+1/12/2013,5,1104599,D,4,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,3,4,2,4
+1/12/2013,5,1104650,D,4,Santo Domingo de los Tsachilas,CLEANING,3044,0,3,3,2,1
+1/12/2013,5,1105210,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,2
+1/12/2013,5,1105212,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,9
+1/12/2013,5,1105214,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,14
+1/12/2013,5,1105228,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,29
+1/12/2013,5,1105299,D,4,Santo Domingo de los Tsachilas,GROCERY I,1074,0,3,1,2,17
+1/12/2013,5,1109116,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,3,5,2,1
+1/12/2013,5,1109235,D,4,Santo Domingo de los Tsachilas,FROZEN FOODS,2242,0,3,12,2,22.778
+1/12/2013,5,1109325,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,3,5,2,13
+1/12/2013,5,1109326,D,4,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,3,5,2,1
+1/12/2013,5,1109390,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,5
+1/12/2013,5,1109391,D,4,Santo Domingo de los Tsachilas,GROCERY I,1034,0,3,1,2,10
+1/12/2013,5,1113847,D,4,Santo Domingo de los Tsachilas,DELI,2654,1,3,2,2,6
+1/12/2013,5,1113852,D,4,Santo Domingo de los Tsachilas,DELI,2654,1,3,2,2,2
+1/12/2013,5,1114749,D,4,Santo Domingo de los Tsachilas,CLEANING,3040,0,3,3,2,1
+1/12/2013,16,103501,C,3,Santo Domingo de los Tsachilas,CLEANING,3008,0,2,3,2,3
+1/12/2013,16,105576,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,8
+1/12/2013,16,105693,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,7
+1/12/2013,16,105857,C,3,Santo Domingo de los Tsachilas,GROCERY I,1092,0,2,1,2,5
+1/12/2013,16,106716,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,5
+1/12/2013,16,108079,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,1
+1/12/2013,16,108696,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,2
+1/12/2013,16,108701,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,4
+1/12/2013,16,108786,C,3,Santo Domingo de los Tsachilas,CLEANING,3044,0,2,3,2,7
+1/12/2013,16,108797,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,7
+1/12/2013,16,108833,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,9
+1/12/2013,16,108952,C,3,Santo Domingo de los Tsachilas,CLEANING,3024,0,2,3,2,5
+1/12/2013,16,111223,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,14
+1/12/2013,16,114778,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,6
+1/12/2013,16,114790,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,6
+1/12/2013,16,114799,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,4
+1/12/2013,16,115267,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,15
+1/12/2013,16,115611,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,21
+1/12/2013,16,115693,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,3
+1/12/2013,16,115720,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,7
+1/12/2013,16,115850,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,14
+1/12/2013,16,115893,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,5
+1/12/2013,16,115894,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,7
+1/12/2013,16,116017,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,15
+1/12/2013,16,116018,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,4
+1/12/2013,16,116279,C,3,Santo Domingo de los Tsachilas,GROCERY I,1056,0,2,1,2,5
+1/12/2013,16,119141,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,1
+1/12/2013,16,119187,C,3,Santo Domingo de los Tsachilas,CLEANING,3044,0,2,3,2,4
+1/12/2013,16,119193,C,3,Santo Domingo de los Tsachilas,CLEANING,3044,0,2,3,2,14
+1/12/2013,16,119624,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,10
+1/12/2013,16,122418,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,24
+1/12/2013,16,122419,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,4
+1/12/2013,16,122425,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,2
+1/12/2013,16,123601,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,18
+1/12/2013,16,123927,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,1
+1/12/2013,16,125430,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,8
+1/12/2013,16,129296,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,4
+1/12/2013,16,129297,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,1
+1/12/2013,16,129759,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,4
+1/12/2013,16,153267,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,5
+1/12/2013,16,153395,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2704,1,2,0,2,10
+1/12/2013,16,153398,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,2,0,2,8
+1/12/2013,16,155499,C,3,Santo Domingo de los Tsachilas,GROCERY I,1013,0,2,1,2,8
+1/12/2013,16,155500,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,55
+1/12/2013,16,155621,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,157956,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,1
+1/12/2013,16,158788,C,3,Santo Domingo de los Tsachilas,CLEANING,3044,0,2,3,2,6
+1/12/2013,16,158875,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,1
+1/12/2013,16,158956,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,16
+1/12/2013,16,159242,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,4
+1/12/2013,16,162066,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,21
+1/12/2013,16,164088,C,3,Santo Domingo de los Tsachilas,DAIRY,2116,1,2,6,2,2
+1/12/2013,16,164647,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,4
+1/12/2013,16,165550,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,2
+1/12/2013,16,165553,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,165594,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,25
+1/12/2013,16,165704,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,1
+1/12/2013,16,165718,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,2,0,2,8
+1/12/2013,16,165988,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,15
+1/12/2013,16,168931,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,5
+1/12/2013,16,168989,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,5
+1/12/2013,16,169028,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,1
+1/12/2013,16,171890,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,8
+1/12/2013,16,172184,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,2
+1/12/2013,16,172343,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,19
+1/12/2013,16,205381,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,16
+1/12/2013,16,205387,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,5
+1/12/2013,16,207857,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,6
+1/12/2013,16,208384,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,4
+1/12/2013,16,208514,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,25
+1/12/2013,16,209085,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,3
+1/12/2013,16,211203,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,1
+1/12/2013,16,211999,C,3,Santo Domingo de los Tsachilas,GROCERY I,1036,0,2,1,2,2
+1/12/2013,16,212552,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,3
+1/12/2013,16,213066,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,3
+1/12/2013,16,213652,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,2
+1/12/2013,16,213788,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,5
+1/12/2013,16,214381,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,10
+1/12/2013,16,214859,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,8
+1/12/2013,16,214860,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,3
+1/12/2013,16,214862,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,2
+1/12/2013,16,215304,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,2
+1/12/2013,16,215327,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,3
+1/12/2013,16,215331,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,12
+1/12/2013,16,215332,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,1
+1/12/2013,16,215352,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,31
+1/12/2013,16,215356,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,6
+1/12/2013,16,215468,C,3,Santo Domingo de los Tsachilas,LINGERIE,7034,0,2,9,2,8
+1/12/2013,16,215896,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,1
+1/12/2013,16,219150,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,20
+1/12/2013,16,220432,C,3,Santo Domingo de los Tsachilas,GROCERY I,1080,0,2,1,2,9
+1/12/2013,16,220435,C,3,Santo Domingo de los Tsachilas,GROCERY I,1080,0,2,1,2,53
+1/12/2013,16,220613,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,3
+1/12/2013,16,221506,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,3
+1/12/2013,16,222879,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,19
+1/12/2013,16,222975,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,2
+1/12/2013,16,223068,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,7
+1/12/2013,16,223136,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,27
+1/12/2013,16,223434,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,19
+1/12/2013,16,223463,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,1
+1/12/2013,16,227728,C,3,Santo Domingo de los Tsachilas,DAIRY,2104,1,2,6,2,4
+1/12/2013,16,246052,C,3,Santo Domingo de los Tsachilas,GROCERY I,1039,0,2,1,2,8
+1/12/2013,16,253145,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,5
+1/12/2013,16,255161,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,7
+1/12/2013,16,255198,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,3
+1/12/2013,16,255199,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,1
+1/12/2013,16,257847,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,3
+1/12/2013,16,257848,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,4
+1/12/2013,16,258376,C,3,Santo Domingo de los Tsachilas,CLEANING,3044,0,2,3,2,4
+1/12/2013,16,258395,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,1
+1/12/2013,16,258396,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,27
+1/12/2013,16,258411,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2218,0,2,12,2,1
+1/12/2013,16,260628,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,2,0,2,17
+1/12/2013,16,261052,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,24
+1/12/2013,16,261053,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,3
+1/12/2013,16,264299,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,7
+1/12/2013,16,264305,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,16
+1/12/2013,16,264751,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,3
+1/12/2013,16,264752,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,2
+1/12/2013,16,265237,C,3,Santo Domingo de los Tsachilas,GROCERY I,1060,0,2,1,2,4
+1/12/2013,16,265254,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,11
+1/12/2013,16,265279,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,2,0,2,29
+1/12/2013,16,265559,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,39
+1/12/2013,16,265672,C,3,Santo Domingo de los Tsachilas,GROCERY I,1056,0,2,1,2,2
+1/12/2013,16,268440,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,5
+1/12/2013,16,268446,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,5
+1/12/2013,16,268662,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,3
+1/12/2013,16,268676,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,4
+1/12/2013,16,268834,C,3,Santo Domingo de los Tsachilas,GROCERY I,1056,0,2,1,2,2
+1/12/2013,16,269029,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,11
+1/12/2013,16,269036,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,8
+1/12/2013,16,269084,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2720,1,2,0,2,2
+1/12/2013,16,270522,C,3,Santo Domingo de los Tsachilas,AUTOMOTIVE,6806,0,2,17,2,2
+1/12/2013,16,271478,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,5
+1/12/2013,16,273528,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,41
+1/12/2013,16,275823,C,3,Santo Domingo de los Tsachilas,CLEANING,3018,0,2,3,2,1
+1/12/2013,16,279125,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,1
+1/12/2013,16,279494,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,302824,C,3,Santo Domingo de los Tsachilas,CLEANING,3008,0,2,3,2,2
+1/12/2013,16,302997,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,4
+1/12/2013,16,302998,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,1
+1/12/2013,16,305074,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,3
+1/12/2013,16,305234,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,4
+1/12/2013,16,305237,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,5
+1/12/2013,16,305341,C,3,Santo Domingo de los Tsachilas,GROCERY I,1092,0,2,1,2,6
+1/12/2013,16,305344,C,3,Santo Domingo de los Tsachilas,GROCERY I,1092,0,2,1,2,7
+1/12/2013,16,305345,C,3,Santo Domingo de los Tsachilas,GROCERY I,1092,0,2,1,2,5
+1/12/2013,16,308766,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,3
+1/12/2013,16,308916,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,5
+1/12/2013,16,308924,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,2
+1/12/2013,16,310671,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,4
+1/12/2013,16,310790,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,1
+1/12/2013,16,311954,C,3,Santo Domingo de los Tsachilas,CLEANING,3006,0,2,3,2,6
+1/12/2013,16,312113,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2720,1,2,0,2,1
+1/12/2013,16,312317,C,3,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,2,17,2,2
+1/12/2013,16,314384,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,21
+1/12/2013,16,314393,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,2
+1/12/2013,16,314570,C,3,Santo Domingo de los Tsachilas,CLEANING,3024,0,2,3,2,5
+1/12/2013,16,314879,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,1
+1/12/2013,16,314880,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,2
+1/12/2013,16,314881,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,1
+1/12/2013,16,315176,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,7
+1/12/2013,16,315220,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,12
+1/12/2013,16,315221,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,10
+1/12/2013,16,315320,C,3,Santo Domingo de los Tsachilas,GROCERY I,1066,0,2,1,2,2
+1/12/2013,16,315322,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,5
+1/12/2013,16,315463,C,3,Santo Domingo de los Tsachilas,GROCERY II,1236,0,2,11,2,7
+1/12/2013,16,315474,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,2,0,2,13
+1/12/2013,16,318932,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,11
+1/12/2013,16,318935,C,3,Santo Domingo de los Tsachilas,DELI,2652,1,2,2,2,3
+1/12/2013,16,319093,C,3,Santo Domingo de los Tsachilas,DELI,2630,1,2,2,2,2
+1/12/2013,16,319095,C,3,Santo Domingo de los Tsachilas,DELI,2640,1,2,2,2,1
+1/12/2013,16,320681,C,3,Santo Domingo de los Tsachilas,GROCERY I,1080,0,2,1,2,5
+1/12/2013,16,320682,C,3,Santo Domingo de los Tsachilas,GROCERY I,1080,0,2,1,2,20
+1/12/2013,16,321798,C,3,Santo Domingo de los Tsachilas,CLEANING,3010,0,2,3,2,3
+1/12/2013,16,322094,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,16
+1/12/2013,16,323013,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,11
+1/12/2013,16,323227,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,2
+1/12/2013,16,323921,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,10
+1/12/2013,16,324206,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,1
+1/12/2013,16,329071,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,2
+1/12/2013,16,329365,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,2
+1/12/2013,16,346065,C,3,Santo Domingo de los Tsachilas,GROCERY I,1039,0,2,1,2,1
+1/12/2013,16,346066,C,3,Santo Domingo de los Tsachilas,GROCERY I,1039,0,2,1,2,1
+1/12/2013,16,352513,C,3,Santo Domingo de los Tsachilas,CLEANING,3012,0,2,3,2,4
+1/12/2013,16,354918,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,2
+1/12/2013,16,354919,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,8
+1/12/2013,16,354922,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,4
+1/12/2013,16,354971,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,5
+1/12/2013,16,355090,C,3,Santo Domingo de los Tsachilas,GROCERY I,1024,0,2,1,2,4
+1/12/2013,16,355091,C,3,Santo Domingo de los Tsachilas,GROCERY I,1038,0,2,1,2,5
+1/12/2013,16,357961,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,14
+1/12/2013,16,357962,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,12
+1/12/2013,16,357996,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,4
+1/12/2013,16,358096,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,3
+1/12/2013,16,358100,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,2
+1/12/2013,16,358134,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,1
+1/12/2013,16,358231,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,14
+1/12/2013,16,358272,C,3,Santo Domingo de los Tsachilas,DAIRY,2112,1,2,6,2,2
+1/12/2013,16,358515,C,3,Santo Domingo de los Tsachilas,GROCERY I,1024,0,2,1,2,1
+1/12/2013,16,362548,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,5
+1/12/2013,16,363868,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,3
+1/12/2013,16,364413,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,6
+1/12/2013,16,364606,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,24
+1/12/2013,16,364738,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,2
+1/12/2013,16,364832,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,5
+1/12/2013,16,364834,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,3
+1/12/2013,16,364865,C,3,Santo Domingo de los Tsachilas,GROCERY II,1236,0,2,11,2,6
+1/12/2013,16,365138,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,5
+1/12/2013,16,365264,C,3,Santo Domingo de los Tsachilas,CLEANING,3090,0,2,3,2,1
+1/12/2013,16,368136,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,6
+1/12/2013,16,368140,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,17
+1/12/2013,16,368260,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,10
+1/12/2013,16,368419,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,9
+1/12/2013,16,371130,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,7
+1/12/2013,16,371437,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,10
+1/12/2013,16,371438,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,21
+1/12/2013,16,374464,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,1
+1/12/2013,16,376427,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,3
+1/12/2013,16,377978,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,2,14,2,5
+1/12/2013,16,378330,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,2
+1/12/2013,16,378685,C,3,Santo Domingo de los Tsachilas,DAIRY,2102,1,2,6,2,9
+1/12/2013,16,401817,C,3,Santo Domingo de los Tsachilas,GROCERY I,1078,0,2,1,2,3
+1/12/2013,16,401911,C,3,Santo Domingo de los Tsachilas,CLEANING,3012,0,2,3,2,3
+1/12/2013,16,404332,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,8
+1/12/2013,16,404333,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,3
+1/12/2013,16,404334,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,11
+1/12/2013,16,407500,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,11
+1/12/2013,16,407533,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,4
+1/12/2013,16,407542,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,8
+1/12/2013,16,407552,C,3,Santo Domingo de los Tsachilas,DELI,2652,1,2,2,2,3
+1/12/2013,16,409904,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,5
+1/12/2013,16,410257,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,4
+1/12/2013,16,410866,C,3,Santo Domingo de los Tsachilas,PREPARED FOODS,2980,1,2,10,2,3
+1/12/2013,16,411487,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,3
+1/12/2013,16,413557,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,1
+1/12/2013,16,413987,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,12
+1/12/2013,16,414305,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,2
+1/12/2013,16,414353,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,32
+1/12/2013,16,414354,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,2
+1/12/2013,16,414426,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,2
+1/12/2013,16,414454,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,4
+1/12/2013,16,414455,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,1
+1/12/2013,16,414620,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,4
+1/12/2013,16,414621,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,2
+1/12/2013,16,414750,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,24
+1/12/2013,16,414752,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,6
+1/12/2013,16,417763,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,23
+1/12/2013,16,417835,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,2
+1/12/2013,16,418025,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,11
+1/12/2013,16,418026,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,2
+1/12/2013,16,421066,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,7
+1/12/2013,16,422452,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,4
+1/12/2013,16,426155,C,3,Santo Domingo de los Tsachilas,PREPARED FOODS,2962,1,2,10,2,2
+1/12/2013,16,428054,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,4
+1/12/2013,16,428488,C,3,Santo Domingo de los Tsachilas,CLEANING,3030,0,2,3,2,8
+1/12/2013,16,452022,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,1
+1/12/2013,16,452078,C,3,Santo Domingo de los Tsachilas,CLEANING,3008,0,2,3,2,2
+1/12/2013,16,454413,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,8
+1/12/2013,16,454416,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,12
+1/12/2013,16,454426,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,5
+1/12/2013,16,454596,C,3,Santo Domingo de los Tsachilas,GROCERY I,1092,0,2,1,2,4
+1/12/2013,16,456870,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,1
+1/12/2013,16,456875,C,3,Santo Domingo de los Tsachilas,CLEANING,3015,0,2,3,2,1
+1/12/2013,16,457471,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,16
+1/12/2013,16,457556,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,10
+1/12/2013,16,457928,C,3,Santo Domingo de los Tsachilas,POULTRY,2416,1,2,8,2,15.274
+1/12/2013,16,459762,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,2,0,2,5
+1/12/2013,16,459804,C,3,Santo Domingo de los Tsachilas,GROCERY I,1086,0,2,1,2,5
+1/12/2013,16,460804,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,11
+1/12/2013,16,461432,C,3,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,2,17,2,3
+1/12/2013,16,463598,C,3,Santo Domingo de los Tsachilas,CLEANING,3024,0,2,3,2,7
+1/12/2013,16,463901,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,9
+1/12/2013,16,463903,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,2
+1/12/2013,16,464302,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,9
+1/12/2013,16,464333,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,2
+1/12/2013,16,464336,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,4
+1/12/2013,16,464339,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,10
+1/12/2013,16,464374,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,3
+1/12/2013,16,464906,C,3,Santo Domingo de los Tsachilas,GROCERY I,1012,0,2,1,2,5
+1/12/2013,16,464907,C,3,Santo Domingo de los Tsachilas,GROCERY I,1056,0,2,1,2,1
+1/12/2013,16,464940,C,3,Santo Domingo de los Tsachilas,CLEANING,3090,0,2,3,2,2
+1/12/2013,16,467808,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,6
+1/12/2013,16,467887,C,3,Santo Domingo de los Tsachilas,GROCERY I,1076,0,2,1,2,2
+1/12/2013,16,468265,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,3
+1/12/2013,16,469643,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,6
+1/12/2013,16,470760,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,8
+1/12/2013,16,470762,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,5
+1/12/2013,16,471980,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,12
+1/12/2013,16,472314,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,2
+1/12/2013,16,472658,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,5
+1/12/2013,16,502067,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,1
+1/12/2013,16,502227,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,2
+1/12/2013,16,502230,C,3,Santo Domingo de los Tsachilas,GROCERY I,1096,0,2,1,2,2
+1/12/2013,16,502331,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,2,0,2,50
+1/12/2013,16,506717,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,3
+1/12/2013,16,507457,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2218,0,2,12,2,2
+1/12/2013,16,507870,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,8
+1/12/2013,16,510052,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,10
+1/12/2013,16,510054,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,5
+1/12/2013,16,510055,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,2
+1/12/2013,16,511172,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2712,1,2,0,2,2
+1/12/2013,16,511397,C,3,Santo Domingo de los Tsachilas,GROCERY I,1044,0,2,1,2,8
+1/12/2013,16,513853,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,6
+1/12/2013,16,513855,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,3
+1/12/2013,16,514149,C,3,Santo Domingo de los Tsachilas,GROCERY I,1066,0,2,1,2,1
+1/12/2013,16,514172,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,514242,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,11
+1/12/2013,16,514327,C,3,Santo Domingo de los Tsachilas,PREPARED FOODS,2986,1,2,10,2,10
+1/12/2013,16,514446,C,3,Santo Domingo de los Tsachilas,LINGERIE,7034,0,2,9,2,2
+1/12/2013,16,514597,C,3,Santo Domingo de los Tsachilas,GROCERY I,1012,0,2,1,2,8
+1/12/2013,16,514730,C,3,Santo Domingo de los Tsachilas,GROCERY I,1056,0,2,1,2,1
+1/12/2013,16,517615,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,4
+1/12/2013,16,517904,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,6
+1/12/2013,16,517905,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,4
+1/12/2013,16,517906,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,2
+1/12/2013,16,518091,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,16
+1/12/2013,16,521818,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,2
+1/12/2013,16,522383,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,2
+1/12/2013,16,522721,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,7
+1/12/2013,16,522941,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,1
+1/12/2013,16,551893,C,3,Santo Domingo de los Tsachilas,CLEANING,3008,0,2,3,2,2
+1/12/2013,16,554049,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,14
+1/12/2013,16,554144,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,13
+1/12/2013,16,554145,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,2
+1/12/2013,16,554152,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,2
+1/12/2013,16,557256,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,4
+1/12/2013,16,557257,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,2
+1/12/2013,16,557285,C,3,Santo Domingo de los Tsachilas,DELI,2630,1,2,2,2,18
+1/12/2013,16,557289,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,3
+1/12/2013,16,557408,C,3,Santo Domingo de los Tsachilas,DAIRY,2142,1,2,6,2,2
+1/12/2013,16,557810,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,1
+1/12/2013,16,559493,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,2,0,2,11
+1/12/2013,16,559494,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,2,0,2,4
+1/12/2013,16,559680,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,2
+1/12/2013,16,559870,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,43
+1/12/2013,16,559873,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,2
+1/12/2013,16,564110,C,3,Santo Domingo de los Tsachilas,GROCERY I,1066,0,2,1,2,12
+1/12/2013,16,564272,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,3
+1/12/2013,16,564274,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,1
+1/12/2013,16,564287,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,2,0,2,11
+1/12/2013,16,564288,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2718,1,2,0,2,5
+1/12/2013,16,564533,C,3,Santo Domingo de los Tsachilas,GROCERY I,1012,0,2,1,2,29
+1/12/2013,16,564534,C,3,Santo Domingo de los Tsachilas,GROCERY I,1012,0,2,1,2,7
+1/12/2013,16,567588,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,567623,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,3
+1/12/2013,16,567750,C,3,Santo Domingo de los Tsachilas,GROCERY I,1056,0,2,1,2,3
+1/12/2013,16,567778,C,3,Santo Domingo de los Tsachilas,DELI,2630,1,2,2,2,4
+1/12/2013,16,567779,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,7
+1/12/2013,16,568133,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,2
+1/12/2013,16,570917,C,3,Santo Domingo de los Tsachilas,GROCERY I,1054,0,2,1,2,7
+1/12/2013,16,570922,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,3
+1/12/2013,16,572838,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,4
+1/12/2013,16,573832,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,1
+1/12/2013,16,574898,C,3,Santo Domingo de los Tsachilas,CLEANING,3018,0,2,3,2,2
+1/12/2013,16,575630,C,3,Santo Domingo de los Tsachilas,GROCERY I,1035,0,2,1,2,1
+1/12/2013,16,575863,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,3
+1/12/2013,16,577741,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,12
+1/12/2013,16,577743,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,1
+1/12/2013,16,578467,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,5
+1/12/2013,16,580929,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,1
+1/12/2013,16,581078,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,15
+1/12/2013,16,581742,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,4
+1/12/2013,16,583975,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,8.179
+1/12/2013,16,583977,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,2.528
+1/12/2013,16,584030,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,1.388
+1/12/2013,16,584123,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,1.054
+1/12/2013,16,584125,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,4.035
+1/12/2013,16,584126,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,16.089
+1/12/2013,16,586824,C,3,Santo Domingo de los Tsachilas,CLEANING,3090,0,2,3,2,2
+1/12/2013,16,586911,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,2
+1/12/2013,16,586969,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,5
+1/12/2013,16,587069,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,15
+1/12/2013,16,587104,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,3.631
+1/12/2013,16,592942,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,1
+1/12/2013,16,598414,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,5
+1/12/2013,16,598492,C,3,Santo Domingo de los Tsachilas,GROCERY I,1032,0,2,1,2,1
+1/12/2013,16,608035,C,3,Santo Domingo de los Tsachilas,CLEANING,3044,0,2,3,2,11
+1/12/2013,16,617113,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,4
+1/12/2013,16,619965,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,2
+1/12/2013,16,621300,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,11
+1/12/2013,16,622958,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,7
+1/12/2013,16,623317,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,7.892
+1/12/2013,16,627887,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,1
+1/12/2013,16,633977,C,3,Santo Domingo de los Tsachilas,MEATS,2306,1,2,13,2,1.762
+1/12/2013,16,637016,C,3,Santo Domingo de los Tsachilas,GROCERY I,1078,0,2,1,2,4
+1/12/2013,16,638240,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,3
+1/12/2013,16,638308,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,638327,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,2
+1/12/2013,16,638977,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,42
+1/12/2013,16,638978,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,8
+1/12/2013,16,641042,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,8
+1/12/2013,16,645294,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,1
+1/12/2013,16,648313,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,7
+1/12/2013,16,651326,C,3,Santo Domingo de los Tsachilas,GROCERY I,1036,0,2,1,2,3
+1/12/2013,16,651525,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,12
+1/12/2013,16,655427,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,7
+1/12/2013,16,655744,C,3,Santo Domingo de los Tsachilas,LINGERIE,7016,0,2,9,2,1
+1/12/2013,16,657869,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,2
+1/12/2013,16,658609,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,1
+1/12/2013,16,663084,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,12
+1/12/2013,16,664539,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,4
+1/12/2013,16,664543,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,2
+1/12/2013,16,664545,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,2
+1/12/2013,16,668752,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,3
+1/12/2013,16,668753,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,9
+1/12/2013,16,668754,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,3
+1/12/2013,16,671039,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,1
+1/12/2013,16,671051,C,3,Santo Domingo de los Tsachilas,DELI,2630,1,2,2,2,4
+1/12/2013,16,671062,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,8
+1/12/2013,16,671068,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,6
+1/12/2013,16,671076,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,2
+1/12/2013,16,671908,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,3
+1/12/2013,16,675524,C,3,Santo Domingo de los Tsachilas,PREPARED FOODS,2956,1,2,10,2,1
+1/12/2013,16,683720,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,3
+1/12/2013,16,683721,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,683722,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,5
+1/12/2013,16,683723,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,5
+1/12/2013,16,686036,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,8
+1/12/2013,16,687549,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,692531,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,8
+1/12/2013,16,692537,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,1
+1/12/2013,16,698642,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,4
+1/12/2013,16,700609,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2220,0,2,12,2,2
+1/12/2013,16,700610,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2220,0,2,12,2,2
+1/12/2013,16,716241,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,2
+1/12/2013,16,716242,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,3
+1/12/2013,16,716245,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,1
+1/12/2013,16,716250,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,7
+1/12/2013,16,723184,C,3,Santo Domingo de los Tsachilas,DAIRY,2116,1,2,6,2,4
+1/12/2013,16,724360,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2722,1,2,0,2,2
+1/12/2013,16,724498,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,4
+1/12/2013,16,730258,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,1
+1/12/2013,16,730259,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,3
+1/12/2013,16,732006,C,3,Santo Domingo de los Tsachilas,DELI,2642,1,2,2,2,1
+1/12/2013,16,732007,C,3,Santo Domingo de los Tsachilas,DELI,2642,1,2,2,2,1
+1/12/2013,16,738219,C,3,Santo Domingo de los Tsachilas,CLEANING,3026,0,2,3,2,2
+1/12/2013,16,740713,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,3
+1/12/2013,16,749421,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,9
+1/12/2013,16,749720,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,2
+1/12/2013,16,749729,C,3,Santo Domingo de los Tsachilas,GROCERY I,1010,0,2,1,2,3
+1/12/2013,16,750855,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,2
+1/12/2013,16,750856,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,3
+1/12/2013,16,750857,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,4
+1/12/2013,16,752167,C,3,Santo Domingo de los Tsachilas,GROCERY I,1030,0,2,1,2,1
+1/12/2013,16,754103,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,4
+1/12/2013,16,757888,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,7
+1/12/2013,16,757889,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,8
+1/12/2013,16,759651,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,9
+1/12/2013,16,759657,C,3,Santo Domingo de los Tsachilas,LINGERIE,7016,0,2,9,2,3
+1/12/2013,16,759694,C,3,Santo Domingo de los Tsachilas,GROCERY I,1070,0,2,1,2,3
+1/12/2013,16,759890,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,6
+1/12/2013,16,759893,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,23
+1/12/2013,16,759894,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,7
+1/12/2013,16,760319,C,3,Santo Domingo de los Tsachilas,POULTRY,2416,1,2,8,2,27.713
+1/12/2013,16,765092,C,3,Santo Domingo de los Tsachilas,POULTRY,2416,1,2,8,2,1.564
+1/12/2013,16,765517,C,3,Santo Domingo de los Tsachilas,GROCERY I,1060,0,2,1,2,6
+1/12/2013,16,765519,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,5
+1/12/2013,16,767184,C,3,Santo Domingo de los Tsachilas,GROCERY I,1039,0,2,1,2,1
+1/12/2013,16,769312,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,2
+1/12/2013,16,769314,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,2
+1/12/2013,16,770449,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,18
+1/12/2013,16,770456,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,19
+1/12/2013,16,770511,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,3
+1/12/2013,16,771156,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,5
+1/12/2013,16,771157,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,2
+1/12/2013,16,783243,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,10
+1/12/2013,16,788172,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,9
+1/12/2013,16,789906,C,3,Santo Domingo de los Tsachilas,DAIRY,2102,1,2,6,2,1
+1/12/2013,16,789907,C,3,Santo Domingo de los Tsachilas,DAIRY,2102,1,2,6,2,6
+1/12/2013,16,793341,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,2
+1/12/2013,16,793345,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,2
+1/12/2013,16,793346,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,2
+1/12/2013,16,800958,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,2
+1/12/2013,16,801217,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,11
+1/12/2013,16,802831,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,4
+1/12/2013,16,802832,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,4
+1/12/2013,16,803101,C,3,Santo Domingo de los Tsachilas,CLEANING,3060,0,2,3,2,3
+1/12/2013,16,804098,C,3,Santo Domingo de los Tsachilas,SEAFOOD,2854,1,2,18,2,3
+1/12/2013,16,804503,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,5
+1/12/2013,16,804932,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,5
+1/12/2013,16,804974,C,3,Santo Domingo de los Tsachilas,GROCERY I,1060,0,2,1,2,7
+1/12/2013,16,805311,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,6
+1/12/2013,16,807493,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,32
+1/12/2013,16,812725,C,3,Santo Domingo de los Tsachilas,CLEANING,3040,0,2,3,2,2
+1/12/2013,16,812726,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,8
+1/12/2013,16,812757,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,6
+1/12/2013,16,812769,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,2
+1/12/2013,16,813770,C,3,Santo Domingo de los Tsachilas,PREPARED FOODS,2986,1,2,10,2,2
+1/12/2013,16,819194,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,6
+1/12/2013,16,819195,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,2
+1/12/2013,16,819227,C,3,Santo Domingo de los Tsachilas,MEATS,2304,1,2,13,2,3.092
+1/12/2013,16,819932,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,29
+1/12/2013,16,819933,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,3
+1/12/2013,16,819934,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,2
+1/12/2013,16,820006,C,3,Santo Domingo de los Tsachilas,MEATS,2304,1,2,13,2,2.679
+1/12/2013,16,828204,C,3,Santo Domingo de los Tsachilas,GROCERY I,1060,0,2,1,2,4
+1/12/2013,16,828630,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,13
+1/12/2013,16,828632,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,3
+1/12/2013,16,829658,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,4
+1/12/2013,16,830624,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,4
+1/12/2013,16,830625,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,22
+1/12/2013,16,830749,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,2
+1/12/2013,16,830797,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,1
+1/12/2013,16,838215,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,8
+1/12/2013,16,838216,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,7
+1/12/2013,16,838217,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,2
+1/12/2013,16,838407,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,1
+1/12/2013,16,838408,C,3,Santo Domingo de los Tsachilas,DAIRY,2124,1,2,6,2,1
+1/12/2013,16,838832,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,2
+1/12/2013,16,838844,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,11
+1/12/2013,16,838875,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,2
+1/12/2013,16,839362,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,33
+1/12/2013,16,839363,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,15
+1/12/2013,16,839367,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,841514,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,15
+1/12/2013,16,841583,C,3,Santo Domingo de los Tsachilas,GROCERY I,1014,0,2,1,2,4
+1/12/2013,16,841607,C,3,Santo Domingo de los Tsachilas,CLEANING,3024,0,2,3,2,3
+1/12/2013,16,841612,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,7
+1/12/2013,16,841614,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,5
+1/12/2013,16,841841,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,23
+1/12/2013,16,841842,C,3,Santo Domingo de los Tsachilas,GROCERY I,1072,0,2,1,2,22
+1/12/2013,16,843459,C,3,Santo Domingo de los Tsachilas,GROCERY I,1060,0,2,1,2,1
+1/12/2013,16,844017,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,1
+1/12/2013,16,844793,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,4
+1/12/2013,16,844795,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,4
+1/12/2013,16,847859,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,6
+1/12/2013,16,847863,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,17
+1/12/2013,16,848765,C,3,Santo Domingo de los Tsachilas,GROCERY I,1058,0,2,1,2,11
+1/12/2013,16,849098,C,3,Santo Domingo de los Tsachilas,DAIRY,2116,1,2,6,2,6
+1/12/2013,16,849142,C,3,Santo Domingo de los Tsachilas,DAIRY,2130,1,2,6,2,5
+1/12/2013,16,850333,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,8
+1/12/2013,16,850334,C,3,Santo Domingo de los Tsachilas,GROCERY I,1084,0,2,1,2,1
+1/12/2013,16,850460,C,3,Santo Domingo de los Tsachilas,GROCERY I,1008,0,2,1,2,6
+1/12/2013,16,851982,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,5
+1/12/2013,16,852934,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,2,12,2,1
+1/12/2013,16,853195,C,3,Santo Domingo de los Tsachilas,CLEANING,3014,0,2,3,2,1
+1/12/2013,16,859932,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,1
+1/12/2013,16,862454,C,3,Santo Domingo de los Tsachilas,GROCERY I,1088,0,2,1,2,12
+1/12/2013,16,864510,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,11
+1/12/2013,16,865147,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,2
+1/12/2013,16,866927,C,3,Santo Domingo de los Tsachilas,DELI,2632,1,2,2,2,7
+1/12/2013,16,867850,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,5
+1/12/2013,16,870544,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,16
+1/12/2013,16,870545,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4126,0,2,4,2,12
+1/12/2013,16,871421,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,4
+1/12/2013,16,872306,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,5
+1/12/2013,16,872307,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,1
+1/12/2013,16,872308,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,6
+1/12/2013,16,872309,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,7
+1/12/2013,16,872310,C,3,Santo Domingo de los Tsachilas,GROCERY I,1034,0,2,1,2,6
+1/12/2013,16,872317,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,10
+1/12/2013,16,875604,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,7
+1/12/2013,16,876663,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,6
+1/12/2013,16,877513,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,8
+1/12/2013,16,877514,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,4
+1/12/2013,16,881701,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,1
+1/12/2013,16,881910,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,1
+1/12/2013,16,881911,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,1
+1/12/2013,16,881912,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,2
+1/12/2013,16,882624,C,3,Santo Domingo de los Tsachilas,DAIRY,2116,1,2,6,2,4
+1/12/2013,16,884878,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,885543,C,3,Santo Domingo de los Tsachilas,PREPARED FOODS,2966,1,2,10,2,24
+1/12/2013,16,886396,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,2
+1/12/2013,16,886398,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,4
+1/12/2013,16,888763,C,3,Santo Domingo de los Tsachilas,DELI,2646,1,2,2,2,3
+1/12/2013,16,890371,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,1
+1/12/2013,16,890372,C,3,Santo Domingo de los Tsachilas,GROCERY I,1002,0,2,1,2,1
+1/12/2013,16,897348,C,3,Santo Domingo de los Tsachilas,DELI,2644,1,2,2,2,7
+1/12/2013,16,902198,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,9
+1/12/2013,16,902200,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,14
+1/12/2013,16,902202,C,3,Santo Domingo de los Tsachilas,EGGS,2502,1,2,7,2,5
+1/12/2013,16,903283,C,3,Santo Domingo de los Tsachilas,POULTRY,2416,1,2,8,2,38.643
+1/12/2013,16,911429,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,4
+1/12/2013,16,911871,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,9
+1/12/2013,16,911990,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,10
+1/12/2013,16,915351,C,3,Santo Domingo de los Tsachilas,DAIRY,2128,1,2,6,2,2
+1/12/2013,16,915980,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,2
+1/12/2013,16,916887,C,3,Santo Domingo de los Tsachilas,CLEANING,3024,0,2,3,2,2
+1/12/2013,16,926958,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,8
+1/12/2013,16,932281,C,3,Santo Domingo de los Tsachilas,CLEANING,3024,0,2,3,2,4
+1/12/2013,16,938567,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,7
+1/12/2013,16,938574,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,2
+1/12/2013,16,938576,C,3,Santo Domingo de los Tsachilas,GROCERY I,1042,0,2,1,2,8
+1/12/2013,16,938657,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,2,5,2,3
+1/12/2013,16,939129,C,3,Santo Domingo de los Tsachilas,DAIRY,2104,1,2,6,2,2
+1/12/2013,16,939130,C,3,Santo Domingo de los Tsachilas,DAIRY,2104,1,2,6,2,4
+1/12/2013,16,939131,C,3,Santo Domingo de los Tsachilas,DAIRY,2104,1,2,6,2,1
+1/12/2013,16,939207,C,3,Santo Domingo de los Tsachilas,DAIRY,2130,1,2,6,2,7
+1/12/2013,16,939661,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,15
+1/12/2013,16,939662,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,20
+1/12/2013,16,939663,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,10
+1/12/2013,16,940590,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,1
+1/12/2013,16,940592,C,3,Santo Domingo de los Tsachilas,CLEANING,3016,0,2,3,2,5
+1/12/2013,16,946671,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,4
+1/12/2013,16,949053,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,5
+1/12/2013,16,953404,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,4
+1/12/2013,16,953413,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,1
+1/12/2013,16,953562,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,2
+1/12/2013,16,953609,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,8
+1/12/2013,16,956011,C,3,Santo Domingo de los Tsachilas,GROCERY I,1064,0,2,1,2,1
+1/12/2013,16,956012,C,3,Santo Domingo de los Tsachilas,GROCERY I,1088,0,2,1,2,2
+1/12/2013,16,956013,C,3,Santo Domingo de los Tsachilas,GROCERY I,1088,0,2,1,2,1
+1/12/2013,16,956014,C,3,Santo Domingo de los Tsachilas,GROCERY I,1088,0,2,1,2,3
+1/12/2013,16,958514,C,3,Santo Domingo de los Tsachilas,BEAUTY,4252,0,2,16,2,1
+1/12/2013,16,959437,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,25
+1/12/2013,16,962600,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,1
+1/12/2013,16,962601,C,3,Santo Domingo de los Tsachilas,CLEANING,3004,0,2,3,2,13
+1/12/2013,16,964752,C,3,Santo Domingo de los Tsachilas,GROCERY I,1088,0,2,1,2,9
+1/12/2013,16,964753,C,3,Santo Domingo de los Tsachilas,GROCERY I,1088,0,2,1,2,3
+1/12/2013,16,968432,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,12
+1/12/2013,16,968935,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,2,14,2,4
+1/12/2013,16,968937,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1386,0,2,14,2,6
+1/12/2013,16,977007,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,9
+1/12/2013,16,979195,C,3,Santo Domingo de los Tsachilas,CLEANING,3028,0,2,3,2,10
+1/12/2013,16,979196,C,3,Santo Domingo de los Tsachilas,CLEANING,3028,0,2,3,2,3
+1/12/2013,16,979553,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,2,12,2,2
+1/12/2013,16,979554,C,3,Santo Domingo de los Tsachilas,FROZEN FOODS,2228,0,2,12,2,1
+1/12/2013,16,982726,C,3,Santo Domingo de los Tsachilas,CLEANING,3018,0,2,3,2,4
+1/12/2013,16,982727,C,3,Santo Domingo de los Tsachilas,CLEANING,3018,0,2,3,2,2
+1/12/2013,16,985824,C,3,Santo Domingo de los Tsachilas,GROCERY I,1062,0,2,1,2,1
+1/12/2013,16,987768,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,2
+1/12/2013,16,987769,C,3,Santo Domingo de los Tsachilas,CLEANING,3032,0,2,3,2,5
+1/12/2013,16,991114,C,3,Santo Domingo de los Tsachilas,DELI,2636,1,2,2,2,5
+1/12/2013,16,991331,C,3,Santo Domingo de los Tsachilas,GROCERY I,1004,0,2,1,2,8
+1/12/2013,16,1003679,C,3,Santo Domingo de los Tsachilas,GROCERY I,1028,0,2,1,2,4
+1/12/2013,16,1004550,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,3
+1/12/2013,16,1004551,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,10
+1/12/2013,16,1009512,C,3,Santo Domingo de los Tsachilas,AUTOMOTIVE,6810,0,2,17,2,1
+1/12/2013,16,1009539,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,1
+1/12/2013,16,1012473,C,3,Santo Domingo de los Tsachilas,CLEANING,3008,0,2,3,2,26
+1/12/2013,16,1012788,C,3,Santo Domingo de los Tsachilas,GROCERY I,1012,0,2,1,2,1
+1/12/2013,16,1017349,C,3,Santo Domingo de los Tsachilas,MEATS,2302,1,2,13,2,8.469
+1/12/2013,16,1021281,C,3,Santo Domingo de los Tsachilas,CLEANING,3034,0,2,3,2,3
+1/12/2013,16,1022053,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,1
+1/12/2013,16,1024975,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,7
+1/12/2013,16,1024976,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,2
+1/12/2013,16,1028589,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,2
+1/12/2013,16,1033395,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2702,1,2,0,2,4
+1/12/2013,16,1036320,C,3,Santo Domingo de los Tsachilas,CLEANING,3040,0,2,3,2,2
+1/12/2013,16,1036689,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,10
+1/12/2013,16,1037845,C,3,Santo Domingo de los Tsachilas,GROCERY I,1022,0,2,1,2,7
+1/12/2013,16,1037846,C,3,Santo Domingo de los Tsachilas,GROCERY I,1022,0,2,1,2,2
+1/12/2013,16,1037857,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,1
+1/12/2013,16,1047394,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,7
+1/12/2013,16,1047395,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,7
+1/12/2013,16,1047396,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,8
+1/12/2013,16,1047674,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,1
+1/12/2013,16,1047679,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,2
+1/12/2013,16,1047681,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,12
+1/12/2013,16,1047685,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,6
+1/12/2013,16,1047690,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1120,0,2,5,2,4
+1/12/2013,16,1047695,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,1
+1/12/2013,16,1047699,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,2
+1/12/2013,16,1047705,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,5
+1/12/2013,16,1047707,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,6
+1/12/2013,16,1047717,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,1
+1/12/2013,16,1047734,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,1047740,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,4
+1/12/2013,16,1047743,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,1047756,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,3
+1/12/2013,16,1047757,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,1
+1/12/2013,16,1047772,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,8
+1/12/2013,16,1047773,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,12
+1/12/2013,16,1047774,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,1
+1/12/2013,16,1047775,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,6
+1/12/2013,16,1047786,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,2
+1/12/2013,16,1047790,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1138,0,2,5,2,9
+1/12/2013,16,1050142,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1124,0,2,5,2,1
+1/12/2013,16,1052563,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,8
+1/12/2013,16,1053943,C,3,Santo Domingo de los Tsachilas,GROCERY I,1036,0,2,1,2,2
+1/12/2013,16,1053944,C,3,Santo Domingo de los Tsachilas,GROCERY I,1036,0,2,1,2,6
+1/12/2013,16,1053945,C,3,Santo Domingo de los Tsachilas,GROCERY I,1036,0,2,1,2,6
+1/12/2013,16,1057033,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,6
+1/12/2013,16,1057034,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,1
+1/12/2013,16,1057491,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,7
+1/12/2013,16,1057498,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,18
+1/12/2013,16,1057515,C,3,Santo Domingo de los Tsachilas,CLEANING,3046,0,2,3,2,6
+1/12/2013,16,1065599,C,3,Santo Domingo de los Tsachilas,MEATS,2304,1,2,13,2,0.507
+1/12/2013,16,1066900,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,2,5,2,1
+1/12/2013,16,1066901,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1136,0,2,5,2,13
+1/12/2013,16,1070962,C,3,Santo Domingo de los Tsachilas,GROCERY I,1026,0,2,1,2,7
+1/12/2013,16,1071928,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,35
+1/12/2013,16,1076335,C,3,Santo Domingo de los Tsachilas,GROCERY I,1086,0,2,1,2,1
+1/12/2013,16,1079214,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,6
+1/12/2013,16,1079215,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,1
+1/12/2013,16,1079220,C,3,Santo Domingo de los Tsachilas,CLEANING,3022,0,2,3,2,2
+1/12/2013,16,1080001,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1314,0,2,14,2,3
+1/12/2013,16,1080756,C,3,Santo Domingo de los Tsachilas,GROCERY I,1038,0,2,1,2,3
+1/12/2013,16,1083152,C,3,Santo Domingo de los Tsachilas,DAIRY,2116,1,2,6,2,2
+1/12/2013,16,1083196,C,3,Santo Domingo de los Tsachilas,DAIRY,2116,1,2,6,2,6
+1/12/2013,16,1083517,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,2
+1/12/2013,16,1083518,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,1
+1/12/2013,16,1084437,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,11
+1/12/2013,16,1084881,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,4
+1/12/2013,16,1084882,C,3,Santo Domingo de los Tsachilas,GROCERY I,1040,0,2,1,2,3
+1/12/2013,16,1085686,C,3,Santo Domingo de los Tsachilas,CLEANING,3040,0,2,3,2,8
+1/12/2013,16,1087269,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,4
+1/12/2013,16,1087467,C,3,Santo Domingo de los Tsachilas,BREAD/BAKERY,2708,1,2,0,2,1
+1/12/2013,16,1088002,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1126,0,2,5,2,1
+1/12/2013,16,1089044,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,5
+1/12/2013,16,1089045,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,4
+1/12/2013,16,1089046,C,3,Santo Domingo de los Tsachilas,CLEANING,3020,0,2,3,2,1
+1/12/2013,16,1090401,C,3,Santo Domingo de los Tsachilas,"LIQUOR,WINE,BEER",1318,0,2,14,2,5
+1/12/2013,16,1091368,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,5
+1/12/2013,16,1091370,C,3,Santo Domingo de los Tsachilas,GROCERY I,1016,0,2,1,2,2
+1/12/2013,16,1094238,C,3,Santo Domingo de los Tsachilas,GROCERY I,1048,0,2,1,2,3
+1/12/2013,16,1098624,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,8
+1/12/2013,16,1101724,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1132,0,2,5,2,3
+1/12/2013,16,1102268,C,3,Santo Domingo de los Tsachilas,PERSONAL CARE,4114,0,2,4,2,1
+1/12/2013,16,1102971,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,2
+1/12/2013,16,1102975,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1122,0,2,5,2,2
+1/12/2013,16,1104725,C,3,Santo Domingo de los Tsachilas,BEVERAGES,1132,0,2,5,2,8
+1/12/2013,16,1105210,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,3
+1/12/2013,16,1105211,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,16
+1/12/2013,16,1105212,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,5
+1/12/2013,16,1105214,C,3,Santo Domingo de los Tsachilas,GROCERY I,1074,0,2,1,2,2
+1/12/2013,16,1112840,C,3,Santo Domingo de los Tsachilas,CLEANING,3038,0,2,3,2,1
+1/12/2013,16,1113872,C,3,Santo Domingo de los Tsachilas,GROCERY I,1045,0,2,1,2,3
+1/12/2013,16,1114749,C,3,Santo Domingo de los Tsachilas,CLEANING,3040,0,2,3,2,4
