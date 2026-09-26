@@ -31,7 +31,7 @@ Outlier detection was conducted using Tukey's boxplot rule:
 This identifies 120 observations (6.94% of the dataset) with sales above 17 units. Rather than removing these records, which represent high-revenue products critical to grocery operations, we stabilized target variance using the natural logarithm:
 
 $$
-y = \ln(1 + \text{unit\_sales})
+y = \ln(1 + \text{unit sales})
 $$
 
 ### Cross-Sectional Feature Engineering
